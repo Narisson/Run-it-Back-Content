@@ -9,6 +9,7 @@ Run it Back niche — health, wealth, discipline, motivation. The goal is to
 - **`pages-index.md`** — running table of every page analyzed: stats, niche, and how each monetizes. The at-a-glance ledger.
 - **`monetization-playbook.md`** — the cross-page synthesis. Patterns that repeat, monetization vectors ranked by fit for Run it Back, and the repeatable funnel we're extracting.
 - **`brand-direction.md`** — the living decision doc: Run it Back's current working thesis for monetization, updated as evidence accumulates.
+- **`content-sources.md`** — the *substance & soul* layer. Analyses of creators/content (Huberman, Diary of a CEO, …) whose ideas and stories give the discipline spine its credibility and drive. Feeds content strategy, not monetization.
 
 ## How this connects
 

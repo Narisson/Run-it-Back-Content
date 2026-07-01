@@ -28,6 +28,14 @@ and courses (own products), and to clean affiliate categories (books, habit/focu
 planners, then health/finance tools in the proof-grounds). It sells the *method*, which
 builds more trust-equity than reposted quotes.
 
+**Content moat (from `content-sources.md`): science + story.** Run it Back pairs the
+*head* (Huberman-style neuroscience — the aMCC "willpower muscle," dopamine as drive,
+"discipline is trainable") with the *heart* (Diary-of-a-CEO-style resilience stories and
+"consistency over intensity"). This defensible middle is what the quote pages we studied
+lack — shadowgrindx_ has hype without substance, goodmindsquote has quotes without method.
+**Thesis line:** *Motivation is a feeling; discipline is a system you can build — and
+here's the brain science and the stories that prove it.*
+
 ## Working thesis (current)
 
 > **Build for ownership from day one.** Use faceless reach mechanics to grow, but
@@ -76,3 +84,6 @@ because it owns the audience and products. Ownership — not size — is the lev
 - 2026-07-02 — **Format DECIDED: semi-faceless.** Plan: record real video + overlay a
   Higgsfield-generated character as the brand persona. Character design parked until the
   business plan is firmer.
+- 2026-07-02 — Added `content-sources.md` (Huberman, Diary of a CEO). Crystallized the
+  **content moat: science + story** — pair neuroscience of discipline (aMCC/dopamine) with
+  resilience narratives. Adopted thesis line "motivation is a feeling; discipline is a system."
