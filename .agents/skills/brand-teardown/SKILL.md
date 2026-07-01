@@ -66,4 +66,8 @@ Keep this section decisive — recommendations, not options.
 
 ## After saving
 
-Report the file path, give a 3-bullet verbal summary of the biggest takeaways, and commit the new teardown to the working branch if the user is tracking analyses in git.
+1. **Feed the knowledge base** in `knowledge-base/` — this is required, not optional:
+   - Add a row to `knowledge-base/pages-index.md` (stats, niche, ownership columns, money model, key lesson).
+   - If the teardown shifts the pattern or thesis, update `knowledge-base/monetization-playbook.md` and `knowledge-base/brand-direction.md` (append to its decisions log).
+2. Report the file path and give a 3-bullet verbal summary of the biggest takeaways.
+3. Commit the teardown **and** the knowledge-base updates to the working branch.

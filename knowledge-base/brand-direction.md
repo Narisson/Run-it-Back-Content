@@ -1,0 +1,56 @@
+# Run it Back — Brand Direction (living decision doc)
+
+The working thesis for **how Run it Back monetizes**, updated as we analyze more
+pages. This is a decision doc, not a report — it takes positions and flags what's
+still open.
+
+_Status: DRAFT · basis: 2 pages analyzed · last updated 2026-07-01_
+
+## Fixed inputs (from you)
+- **Niche:** health + wealth, discipline/consistency/intrinsic-motivation spine.
+- **Format bet:** faceless, short-form video first, across IG / YT / X / TikTok + website.
+- **Money goal:** affiliate now → own products later. Foundation = trust + owned audience.
+
+## Working thesis (current)
+
+> **Build for ownership from day one.** Use faceless reach mechanics to grow, but
+> point every bit of attention at an owned email list and a small product ladder —
+> don't wait to be "big." Monetize in this order: **email list → affiliate → own
+> digital products → (later) physical.** Keep sponsorships secondary and on-ethos.
+
+Rationale: the two pages analyzed are a clean before/after. The small one (59k)
+monetizes weakly because it owns nothing; the large one (1.5M) monetizes well
+because it owns the audience and products. Ownership — not size — is the lever.
+
+## Concrete direction (proposed, for your sign-off)
+
+1. **Own the audience early.** Launch a branded email list — a "Club" — with a free
+   lead magnet (e.g. a discipline/habit challenge or a short guide). Link-in-bio → list.
+2. **Own the content.** Same name-drop / story hooks as the top pages, but on
+   licensable/original footage + your own voiceover (Higgsfield) — so the brand is
+   strike-proof and transferable to products. This is the deliberate break from
+   shadowgrindx_'s borrowed-clip fragility.
+3. **Affiliate through the list, not just the bio.** Recommend niche products
+   (books, apps, supplements, finance/productivity tools) to a warm email audience.
+4. **First own product = digital & cheap.** An ebook / challenge / template pack to
+   validate willingness-to-pay. Merchandise it in highlights + a `.shop` link.
+5. **"Run it Back" merch (apparel) later** — on-brand, but only after digital works.
+6. **Signature visual system** — lock palette + type + motion style (a `run-it-back-brand`
+   skill) so every asset is instantly recognizable. Consistency is a shared trait of both winners.
+
+## Deliberate departures from the pages analyzed
+- **Own the IP** (vs. shadowgrindx_ borrowed clips) — durability + product-trust.
+- **Ethos filter on reach** (vs. goodmindsquote gossip/bait) — protect the trust that sells products.
+- **Voice over volume** — a recognizable POV beats 3,000 generic quote cards.
+
+## Still open (decide as we learn)
+- **Lead pillar:** health, wealth, or the discipline/mindset spine as the hero with
+  the other two as proof-grounds? *(Leaning: discipline as spine.)*
+- **Faceless vs. semi-faceless:** does attaching an operator name lift trust/sales
+  enough to matter? (goodmindsquote uses "J. Hossain".)
+- **Health-led monetization** — need pages in that lane to see supplement/program/coaching models.
+- **Product ladder & price points** for this niche.
+
+## Decisions log
+- 2026-07-01 — Adopted "ownership over size" as the guiding principle; drafted the
+  email-first funnel order. _Awaiting your confirmation on lead pillar and faceless vs. semi-faceless._
