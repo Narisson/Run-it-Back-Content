@@ -36,6 +36,11 @@ lack — shadowgrindx_ has hype without substance, goodmindsquote has quotes wit
 **Thesis line:** *Motivation is a feeling; discipline is a system you can build — and
 here's the brain science and the stories that prove it.*
 
+**Voice nuance (anti-grindset):** hold both poles — do hard things (aMCC grows through
+effort) *and* treat discipline as a **sustainable practice, not self-punishment**
+("willpower runs out; discipline is a practice you return to" — Ido Portal). Inviting
+*and* demanding, not militaristic. This differentiates Run it Back in a grindset-saturated niche.
+
 ## Working thesis (current)
 
 > **Build for ownership from day one.** Use faceless reach mechanics to grow, but
@@ -87,3 +92,6 @@ because it owns the audience and products. Ownership — not size — is the lev
 - 2026-07-02 — Added `content-sources.md` (Huberman, Diary of a CEO). Crystallized the
   **content moat: science + story** — pair neuroscience of discipline (aMCC/dopamine) with
   resilience narratives. Adopted thesis line "motivation is a feeling; discipline is a system."
+- 2026-07-02 — Added Ido Portal (Huberman ep). Adopted the **discipline-vs-willpower**
+  distinction and an **anti-grindset voice nuance**: discipline as sustainable practice, not
+  punishment; "friction with relaxed awareness" as a mental-strength tool.

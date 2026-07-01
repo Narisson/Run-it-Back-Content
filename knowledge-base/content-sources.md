@@ -54,6 +54,28 @@ This *is* the Run it Back message, from a top-5 global voice.
 - **"Laws/principles" content format** — numbered, quotable frameworks people save and share.
 - **Wealth proof-ground** via mindset/decision-making/long-term thinking — *not* get-rich-quick.
 
+## 3. Ido Portal — "Movement Practice to Strengthen Your Mind-Body Connection" (Huberman Lab)
+**Who:** world-renowned movement coach; guest on Huberman Lab (episode aired ~June 2026).
+**Maps to:** the **discipline spine + health** proof-ground — and adds the crucial *nuance* to the whole brand.
+
+**The key distinction — discipline vs. willpower (own this):**
+- **Willpower** = finite, forced, white-knuckle. It runs out.
+- **Discipline** = a sustainable *practice* you return to — built through play, relaxed awareness, and identity, not punishment.
+→ This is the counterweight to the Goggins/"grind" pole. Run it Back can hold *both*: do hard things (aMCC), **but** build discipline as a practice, not a war against yourself. That balance is differentiating in a "grindset"-saturated niche.
+
+**Second big idea — friction with relaxed awareness:**
+Approaching **friction points** in practice with **relaxed awareness** can *rewire your default reactions to stress and fear.* Not "push through pain" — meet resistance calmly, and you retrain your nervous system's default response. A concrete method, not a slogan.
+
+**Other takeaways:**
+- **Playful movement vs. exercise** — play fosters creativity, exploration, and adherence; "moving through life" as a life skill.
+- **Transition states** (e.g. between sleep and waking) for heightened bodily awareness and insight.
+- Embracing **uncertainty**; bringing awareness into everyday life to deepen the mind-body connection.
+
+**What Run it Back takes:**
+- **Signature brand nuance:** *discipline ≠ punishment.* "Willpower runs out; discipline is a practice." Protects the brand from generic grindset.
+- **"Friction with relaxed awareness"** as a teachable mental-strength tool — face hard things without letting stress/fear drive.
+- **Play as a discipline strategy** — makes the health proof-ground inviting, not militaristic.
+
 ---
 
 ## Synthesis — the drive behind Run it Back
@@ -70,6 +92,11 @@ Both giants converge on one idea, from opposite directions:
 - goodmindsquote = broad quotes + gossip bait, no method.
 - **Run it Back = credible method (Huberman-style) + emotional resonance (Bartlett-style).**
 
+**Brand voice nuance (from Ido Portal):** hold *both poles* — do hard things (the aMCC
+grows through effort), **but** frame discipline as a *sustainable practice*, not
+self-punishment. "Willpower runs out; discipline is a practice you return to." This keeps
+Run it Back out of the tired grindset lane and makes it inviting *and* demanding.
+
 **One-line brand thesis this crystallizes:**
 > *Motivation is a feeling; discipline is a system you can build — and here's the brain science and the stories that prove it. Whatever happened yesterday, you run it back.*
 
@@ -81,11 +108,15 @@ Both giants converge on one idea, from opposite directions:
 - Comeback/resilience story series → "Run it Back" framing
 - A numbered **"Laws of Discipline"** series (Bartlett-style, RIB-branded)
 - Health & wealth as *proof*: "here's discipline applied to your body / your money"
+- "**Willpower runs out. Discipline is a practice.**" — the discipline-vs-willpower reframe (Ido Portal)
+- "**Meet friction with relaxed awareness**" — retraining your stress/fear response instead of forcing through it
+- **Play as discipline** — the anti-grindset angle: movement/practice you actually return to
 
 ## Sources
 - [Huberman: Controlling Your Dopamine for Motivation, Focus & Satisfaction](https://www.hubermanlab.com/episode/controlling-your-dopamine-for-motivation-focus-and-satisfaction)
 - [Huberman: How to Increase Your Willpower & Tenacity (aMCC)](https://www.hubermanlab.com/episode/how-to-increase-your-willpower-and-tenacity)
 - [Huberman topic: Motivation and Willpower](https://www.hubermanlab.com/topics/motivation-and-willpower)
+- [Huberman × Ido Portal: Movement Practice to Strengthen Your Mind-Body Connection](https://www.hubermanlab.com/episode/movement-practice-to-strengthen-your-mind-body-connection-ido-portal)
 - [Huberman + Goggins: Using Willpower to Slow Brain Aging](https://www.nad.com/news/dr-andrew-huberman-and-david-goggins-using-willpower-to-slow-the-aging-brain)
 - [Steven Bartlett — The Diary of a CEO (book)](https://stevenbartlett.com/the-book)
 - [The Diary of a CEO — Wikipedia](https://en.wikipedia.org/wiki/The_Diary_of_a_CEO)
