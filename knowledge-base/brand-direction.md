@@ -8,7 +8,7 @@ _Status: DRAFT · basis: 2 pages analyzed · last updated 2026-07-01_
 
 ## Fixed inputs (from you)
 - **Niche / spine (DECIDED):** the brand leads with the **inner game** — **discipline strategies, building resilience, mental strength, and willpower**. Health and wealth are the two **proof-grounds** where that discipline gets applied, not co-equal topics.
-- **Format bet:** faceless, short-form video first, across IG / YT / X / TikTok + website.
+- **Format bet (DECIDED):** **semi-faceless**, short-form video first, across IG / YT / X / TikTok + website. Planned execution: record real video, overlay with a **Higgsfield-generated character** as the on-screen brand persona. Character creation is parked until the business plan is more solid.
 - **Money goal:** affiliate now → own products later. Foundation = trust + owned audience.
 
 ## Positioning (from the spine decision)
@@ -61,8 +61,7 @@ because it owns the audience and products. Ownership — not size — is the lev
 - **Voice over volume** — a recognizable POV beats 3,000 generic quote cards.
 
 ## Still open (decide as we learn)
-- **Faceless vs. semi-faceless:** does attaching an operator name lift trust/sales
-  enough to matter? (goodmindsquote uses "J. Hossain".)
+- **The character/persona:** who is the Higgsfield on-screen character (look, name, vibe)? Parked until the business plan is firmer.
 - **First own product:** which discipline artifact leads — a challenge, a resilience
   playbook/ebook, or a journal/habit system?
 - **Health-led monetization** — need pages in that lane to see how the proof-grounds monetize (supplement/program/coaching models).
@@ -73,4 +72,7 @@ because it owns the audience and products. Ownership — not size — is the lev
   email-first funnel order.
 - 2026-07-01 — **Lead pillar DECIDED:** discipline/inner-game is the spine (discipline
   strategies, resilience, mental strength, willpower); health + wealth are proof-grounds.
-  Added positioning statement and content pillars. _Still open: faceless vs. semi-faceless._
+  Added positioning statement and content pillars.
+- 2026-07-02 — **Format DECIDED: semi-faceless.** Plan: record real video + overlay a
+  Higgsfield-generated character as the brand persona. Character design parked until the
+  business plan is firmer.

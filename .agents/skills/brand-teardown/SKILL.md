@@ -14,7 +14,7 @@ Read this before writing recommendations — it grounds the "steal / avoid" sect
 - **Spine (the hero):** the **inner game** — discipline strategies, building resilience, mental strength, willpower. This is what Run it Back teaches.
 - **Proof-grounds:** health and wealth are the two arenas where the discipline is applied/demonstrated — not co-equal topics.
 - **Positioning:** *the inner game of coming back* — whatever happened yesterday, run the play again with more discipline and will.
-- **Format (current bet):** faceless, short-form video first, across IG / YouTube / X / TikTok, plus a website.
+- **Format (current bet):** semi-faceless, short-form video first, across IG / YouTube / X / TikTok, plus a website. Plan: recorded video overlaid with a Higgsfield-generated character persona.
 - **Money model:** affiliate first (niche products), own products later (digital → physical). The real asset is **trust** and an **owned email audience**, because both affiliate clicks and product sales convert on trust.
 - **Brand fit test:** does this survive "discipline / resilience / mental strength / willpower"? If a tactic or product wouldn't, flag it as avoid.
 
