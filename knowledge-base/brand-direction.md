@@ -7,9 +7,26 @@ still open.
 _Status: DRAFT · basis: 2 pages analyzed · last updated 2026-07-01_
 
 ## Fixed inputs (from you)
-- **Niche:** health + wealth, discipline/consistency/intrinsic-motivation spine.
+- **Niche / spine (DECIDED):** the brand leads with the **inner game** — **discipline strategies, building resilience, mental strength, and willpower**. Health and wealth are the two **proof-grounds** where that discipline gets applied, not co-equal topics.
 - **Format bet:** faceless, short-form video first, across IG / YT / X / TikTok + website.
 - **Money goal:** affiliate now → own products later. Foundation = trust + owned audience.
+
+## Positioning (from the spine decision)
+
+> **Run it Back = the inner game of coming back.** Whatever happened yesterday, you run the play again — with more discipline, more resilience, more will. We teach the *how*: the strategies and systems for discipline, resilience, mental strength, and willpower. Health and wealth are where you prove it.
+
+**Content pillars (spine → proof-grounds):**
+- **Discipline strategies** — systems, habits, routines, consistency mechanics.
+- **Resilience** — bouncing back, comeback stories, handling adversity/failure.
+- **Mental strength** — mindset, emotional control, focus under pressure (stoicism-adjacent).
+- **Willpower** — resisting temptation, showing up when motivation is gone.
+- **Proof-grounds:** *health* (train, recover, go again) and *wealth* (compound the habit, stay disciplined when it's boring) — used as concrete arenas that demonstrate the spine.
+
+**Why this is strong for monetization:** an inner-game/discipline spine is unusually
+**product-native** — it maps directly to challenges, playbooks, habit systems, journals,
+and courses (own products), and to clean affiliate categories (books, habit/focus apps,
+planners, then health/finance tools in the proof-grounds). It sells the *method*, which
+builds more trust-equity than reposted quotes.
 
 ## Working thesis (current)
 
@@ -44,13 +61,16 @@ because it owns the audience and products. Ownership — not size — is the lev
 - **Voice over volume** — a recognizable POV beats 3,000 generic quote cards.
 
 ## Still open (decide as we learn)
-- **Lead pillar:** health, wealth, or the discipline/mindset spine as the hero with
-  the other two as proof-grounds? *(Leaning: discipline as spine.)*
 - **Faceless vs. semi-faceless:** does attaching an operator name lift trust/sales
   enough to matter? (goodmindsquote uses "J. Hossain".)
-- **Health-led monetization** — need pages in that lane to see supplement/program/coaching models.
+- **First own product:** which discipline artifact leads — a challenge, a resilience
+  playbook/ebook, or a journal/habit system?
+- **Health-led monetization** — need pages in that lane to see how the proof-grounds monetize (supplement/program/coaching models).
 - **Product ladder & price points** for this niche.
 
 ## Decisions log
 - 2026-07-01 — Adopted "ownership over size" as the guiding principle; drafted the
-  email-first funnel order. _Awaiting your confirmation on lead pillar and faceless vs. semi-faceless._
+  email-first funnel order.
+- 2026-07-01 — **Lead pillar DECIDED:** discipline/inner-game is the spine (discipline
+  strategies, resilience, mental strength, willpower); health + wealth are proof-grounds.
+  Added positioning statement and content pillars. _Still open: faceless vs. semi-faceless._
