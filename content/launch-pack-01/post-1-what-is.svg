@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1080" height="1350" fill="#0A0E14"/>
+  <rect x="0" y="0" width="1080" height="12" fill="#FF4A1C"/>
+  <g transform="translate(80,120)">
+    <g transform="translate(0,-24)"><path d="M 22 6 A 24 24 0 1 0 46 30" fill="none" stroke="#3B82F6" stroke-width="8" stroke-linecap="round"/><path d="M 13 -4 L 25 6 L 11 15 Z" fill="#FF4A1C"/></g>
+    <text x="72" y="8" font-family="Impact,'Arial Narrow',sans-serif" font-size="40" letter-spacing="1" fill="#F4F7FB">RUN IT BACK</text>
+  </g>
+  <text x="80" y="290" font-family="'Courier New',monospace" font-size="26" letter-spacing="6" fill="#FF4A1C">THE COMEBACK</text>
+  <line x1="80" y1="318" x2="330" y2="318" stroke="#FF4A1C" stroke-width="4"/>
+  <g font-family="Impact, Haettenschweiler, 'Arial Narrow', sans-serif" letter-spacing="1">
+    <text x="76" y="620" font-size="128" fill="#F4F7FB">EVERYBODY</text>
+    <text x="76" y="748" font-size="128" fill="#F4F7FB">FALLS OFF.</text>
+    <text x="76" y="936" font-size="96" fill="#8A9AAC">THIS IS ABOUT</text>
+    <text x="76" y="1040" font-size="96" fill="#F4F7FB">WHAT YOU DO</text>
+    <text x="76" y="1144" font-size="96" fill="#FF4A1C">NEXT.</text>
+  </g>
+  <g transform="translate(80,1270)">
+    <text x="0" y="0" font-family="'Courier New',monospace" font-size="30" fill="#FF4A1C">↻</text>
+    <text x="42" y="0" font-size="30" fill="#8A9AAC">run it back.  ·  discipline for the comeback</text>
+  </g>
+</svg>

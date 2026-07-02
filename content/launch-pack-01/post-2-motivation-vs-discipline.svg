@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1080" height="1350" fill="#0A0E14"/>
+  <g stroke="#141D28" stroke-width="1">
+    <line x1="0" y1="450" x2="1080" y2="450"/><line x1="0" y1="900" x2="1080" y2="900"/>
+    <line x1="360" y1="0" x2="360" y2="1350"/><line x1="720" y1="0" x2="720" y2="1350"/>
+  </g>
+  <g transform="translate(80,120)">
+    <g transform="translate(0,-24)"><path d="M 22 6 A 24 24 0 1 0 46 30" fill="none" stroke="#3B82F6" stroke-width="8" stroke-linecap="round"/><path d="M 13 -4 L 25 6 L 11 15 Z" fill="#FF4A1C"/></g>
+    <text x="72" y="8" font-family="Impact,'Arial Narrow',sans-serif" font-size="40" letter-spacing="1" fill="#F4F7FB">RUN IT BACK</text>
+  </g>
+  <text x="80" y="290" font-family="'Courier New',monospace" font-size="26" letter-spacing="6" fill="#3B82F6">THE DISCIPLINE LAB</text>
+  <line x1="80" y1="318" x2="410" y2="318" stroke="#3B82F6" stroke-width="4"/>
+  <g font-family="Impact, Haettenschweiler, 'Arial Narrow', sans-serif" letter-spacing="1">
+    <text x="76" y="520" font-size="92" fill="#8A9AAC">MOTIVATION IS</text>
+    <text x="76" y="616" font-size="92" fill="#8A9AAC">A FEELING.</text>
+    <text x="76" y="768" font-size="92" fill="#F4F7FB">DISCIPLINE IS</text>
+    <text x="76" y="864" font-size="92" fill="#F4F7FB">A SYSTEM</text>
+    <text x="76" y="960" font-size="92" fill="#3B82F6">YOU BUILD.</text>
+  </g>
+  <text x="80" y="1075" font-size="36" fill="#C7D2DC">And there's real brain science behind it.</text>
+  <g transform="translate(80,1270)">
+    <text x="0" y="0" font-family="'Courier New',monospace" font-size="30" fill="#3B82F6">↻</text>
+    <text x="42" y="0" font-size="30" fill="#8A9AAC">run it back.</text>
+  </g>
+</svg>
