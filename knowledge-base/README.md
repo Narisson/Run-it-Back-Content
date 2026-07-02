@@ -12,6 +12,7 @@ Run it Back niche — health, wealth, discipline, motivation. The goal is to
 - **`content-sources.md`** — the *substance & soul* layer. Analyses of creators/content (Huberman, Diary of a CEO, …) whose ideas and stories give the discipline spine its credibility and drive. Feeds content strategy, not monetization.
 - **`huberman-knowledge.md`** — deep-dive reference: a full sweep of Andrew Huberman's work (motivation/dopamine, willpower/habits, focus, stress/fear, foundations) distilled into science + protocols + ready-to-use content angles. The raw material bank for discipline/health content.
 - **`diary-of-a-ceo-knowledge.md`** — deep-dive reference: a full sweep of Steven Bartlett's Diary of a CEO (his philosophy/33 Laws + guest wisdom on habits, resilience, mental health, and the health/wealth proof-grounds) distilled into ideas + takeaways + content angles.
+- **`audience-personas.md`** — research-grounded picture of *who consumes this content and what they struggle with*: market context, the male-discipline vs. health-crossover fork, and 4 personas (Restarter, Optimizer, Stuck Drifter, Health-Led Crossover) mapped to platforms and monetization. The "who we help" layer.
 
 ## How this connects
 

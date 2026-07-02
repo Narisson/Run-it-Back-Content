@@ -52,6 +52,22 @@ Rationale: the two pages analyzed are a clean before/after. The small one (59k)
 monetizes weakly because it owns nothing; the large one (1.5M) monetizes well
 because it owns the audience and products. Ownership — not size — is the lever.
 
+## Audience (from `audience-personas.md`)
+
+**The wound the brand is built for:** across every pain point (procrastination, inconsistency,
+fried focus, ruts) the through-line is *consistency failure + the shame of restarting from day
+one* — which is exactly what "Run it Back" promises. The name is a bullseye on the core pain.
+
+**Two overlapping audiences:**
+- **Male-discipline core** (young men, Gen Z/younger millennial, gym-centric) — highest-intent acquisition + monetization engine.
+- **Health-led crossover** (more gender-balanced; the Huberman ~50/50 slice) — the ceiling-breaker, reachable by leading with the *health proof-ground*, not masculinity.
+- Our **anti-grindset nuance** (discipline as practice, not punishment) is what lets us serve both.
+
+**4 personas:** the **Restarter** (primary acquisition, low-ticket), the **Optimizer** (monetization
+anchor, premium/owned products), the **Stuck Drifter** (resonance/share engine, mid), and the
+**Health-Led Crossover** (expansion). First product should serve the Restarter: a low-cost,
+resumable **discipline/reset challenge** with "never miss twice" built in.
+
 ## Concrete direction (proposed, for your sign-off)
 
 1. **Own the audience early.** Launch a branded email list — a "Club" — with a free
@@ -101,3 +117,6 @@ because it owns the audience and products. Ownership — not size — is the lev
 - 2026-07-02 — Built **`diary-of-a-ceo-knowledge.md`**: full sweep of DOAC (5 clusters) via
   parallel research → Bartlett's philosophy + guest wisdom (habits, resilience, mental health,
   health/wealth proof-grounds). Flagship rule surfaced: **"Never miss twice."** No Goggins on DOAC (confirmed).
+- 2026-07-02 — Built **`audience-personas.md`** via parallel audience research. Key finding: the
+  brand name matches the core pain (restart-shame loop). Defined the male-core vs. health-crossover
+  fork and 4 personas. _Open: center the male core vs. build the crossover in from day one._
