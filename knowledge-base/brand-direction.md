@@ -98,3 +98,6 @@ because it owns the audience and products. Ownership — not size — is the lev
 - 2026-07-02 — Built **`huberman-knowledge.md`**: full sweep of Huberman's work (5 clusters)
   via parallel research → science + protocols + ~40 content angles. The discipline/health
   content material bank. 7 "signature angles" flagged for flagship content.
+- 2026-07-02 — Built **`diary-of-a-ceo-knowledge.md`**: full sweep of DOAC (5 clusters) via
+  parallel research → Bartlett's philosophy + guest wisdom (habits, resilience, mental health,
+  health/wealth proof-grounds). Flagship rule surfaced: **"Never miss twice."** No Goggins on DOAC (confirmed).

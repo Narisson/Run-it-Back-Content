@@ -58,6 +58,11 @@ This *is* the Run it Back message, from a top-5 global voice.
 - **"Laws/principles" content format** — numbered, quotable frameworks people save and share.
 - **Wealth proof-ground** via mindset/decision-making/long-term thinking — *not* get-rich-quick.
 
+> **Deep dive:** a full sweep of DOAC — Bartlett's philosophy/33 Laws plus guest wisdom
+> (James Clear, Jocko, Bear Grylls, Gabor Maté, David Sinclair, Daniel Priestley, and more)
+> across habits, resilience, mental health, and the health/wealth proof-grounds — lives in
+> **`diary-of-a-ceo-knowledge.md`**.
+
 ## 3. Ido Portal — "Movement Practice to Strengthen Your Mind-Body Connection" (Huberman Lab)
 **Who:** world-renowned movement coach; guest on Huberman Lab (episode aired ~June 2026).
 **Maps to:** the **discipline spine + health** proof-ground — and adds the crucial *nuance* to the whole brand.
