@@ -8,8 +8,9 @@ _Status: DRAFT · basis: 2 pages analyzed · last updated 2026-07-01_
 
 ## Fixed inputs (from you)
 - **Niche / spine (DECIDED):** the brand leads with the **inner game** — **discipline strategies, building resilience, mental strength, and willpower**. Health and wealth are the two **proof-grounds** where that discipline gets applied, not co-equal topics.
-- **Format bet (DECIDED):** **semi-faceless**, short-form video first, across IG / YT / X / TikTok + website. Planned execution: record real video, overlay with a **Higgsfield-generated character** as the on-screen brand persona. Character creation is parked until the business plan is more solid.
-- **Money goal:** affiliate now → own products later. Foundation = trust + owned audience.
+- **Creator's twist (DECIDED, big):** the founder is an **industrial designer** (designs physical products). The brand's personal lens = **a product designer who evaluates the physical tools of discipline, focus, and life-optimization** (Whoop, Brick, Oura, …). This is the authentic **affiliate engine** *and* the **differentiation** — nobody reviews the *hardware of discipline* through a designer's eye.
+- **Format bet (DECIDED):** **semi-faceless**, short-form video first, across IG / YT / X / TikTok + website. The designer angle gives a strong reason to be **hands-on / on-camera** (reviewing products), which builds the trust affiliate needs. Higgsfield character remains an option for the pure mindset content; parked.
+- **Money goal:** affiliate now → own products later. **Lead affiliate = physical life-optimization products, reviewed authentically** through the designer lens. Foundation = trust + owned email audience.
 
 ## Positioning (from the spine decision)
 
@@ -20,6 +21,7 @@ _Status: DRAFT · basis: 2 pages analyzed · last updated 2026-07-01_
 - **Resilience** — bouncing back, comeback stories, handling adversity/failure.
 - **Mental strength** — mindset, emotional control, focus under pressure (stoicism-adjacent).
 - **Willpower** — resisting temptation, showing up when motivation is gone.
+- **★ The Gear (designer's twist)** — a product designer reviews/breaks down the **physical tools of discipline & optimization** (Whoop, Brick, Oura, focus/anti-distraction hardware…). Build-quality + UX + "does it actually work" from a designer's eye. **This pillar is the affiliate engine** and the brand's sharpest differentiator.
 - **Proof-grounds:** *health* (train, recover, go again) and *wealth* (compound the habit, stay disciplined when it's boring) — used as concrete arenas that demonstrate the spine.
 
 **Why this is strong for monetization:** an inner-game/discipline spine is unusually
@@ -132,6 +134,12 @@ resumable **discipline/reset challenge** with "never miss twice" built in.
   **"comeback" niche-down**, the growth engine (completion+sends, series, platform roles), and the
   **affiliate map** (pillar→product; Skool recurring / supplements / wearables "measure your discipline" /
   books floor; TikTok Shop + Amazon storefront + email as distribution; FTC disclosure).
+- 2026-07-02 — **PIVOT (big): the founder is an industrial designer.** Added the personal lens —
+  **designer reviews of the physical tools of discipline/optimization** (Whoop, Brick, Oura, focus hardware)
+  as a new content pillar ("The Gear") and the lead affiliate engine. Fuses differentiation + monetization +
+  authentic authority. Implies more hands-on/on-camera format and the founder's own voice (better than the
+  aggressive TTS in Comeback Cut #01). Researching the gear + affiliate landscape.
+  Also noted @mindset.therapy (11M) as a style reference — education/reframe/tool-led beats hype.
 - 2026-07-02 — **Visual identity DECIDED: "Blueprint × Concrete"** — technical dark base + heavy
   condensed type + dual accent (blue `#3B82F6` = science, orange `#FF4A1C` = push). Logo = the
   replay/loop mark (↻). Built the **`run-it-back-brand` skill** + rendered board & 3 sample posts
