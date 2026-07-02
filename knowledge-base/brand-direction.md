@@ -144,6 +144,9 @@ resumable **discipline/reset challenge** with "never miss twice" built in.
   the review scope is the tools of discipline/optimization **physical AND digital** (gadgets + apps/
   software/systems). Updated `what-is-run-it-back.md`, The Gear pillar, and gear-affiliate-map scope.
   Digital = recurring subscription affiliate (better economics). Brand articulation is a living draft (keep tweaking).
+- 2026-07-02 — **Adopted the content formula: "practical advice → the tool that makes it stick."**
+  Every post is actionable (do-it-today takeaway) and, when it fits, points to the enabling tool —
+  fusing value + tools into the honest affiliate integration. Added to `what-is-run-it-back.md` + `content-strategy.md`.
 - 2026-07-02 — **Visual identity DECIDED: "Blueprint × Concrete"** — technical dark base + heavy
   condensed type + dual accent (blue `#3B82F6` = science, orange `#FF4A1C` = push). Logo = the
   replay/loop mark (↻). Built the **`run-it-back-brand` skill** + rendered board & 3 sample posts

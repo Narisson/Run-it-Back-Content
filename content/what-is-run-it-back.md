@@ -21,6 +21,16 @@ software, the systems. (The founder designs and builds for a living, so the revi
 **maker's eye** for what actually works.) Science + story + an honest builder's eye. Demanding,
 but never cruel.
 
+## The formula (every post)
+> **Practical advice → the tool that makes it stick.**
+
+Run it Back is *actionable*, not just inspirational. Every piece gives a specific, do-it-today
+takeaway (a system, a rep, a reframe — not vague "grind harder") — and, when it fits, points to
+the **tool (physical or digital) that makes the advice easier to actually follow.** The advice
+earns the trust; the tool is the natural next step. This is also the honest affiliate path: we
+only recommend tools that genuinely *enable the advice we just gave.* Teach the how → hand over
+the thing that makes the how stick.
+
 ## Manifesto (voiceover-ready — the intro video spine)
 > You've done this before. Started strong. Fell off. Sat in the silence of day one — again.
 >
@@ -58,6 +68,7 @@ truth about what actually helps.
 3. **A maker's authority** — you design and build for a living, so honest tool reviews (physical *and* digital) carry credibility no faceless page can fake.
 4. **Anti-grindset** — helpful and demanding, not toxic. Safer and more human.
 5. **Science + story** — the head (why) and the heart (comeback narratives) together.
+6. **Practical, not preachy** — every post ends with something to *do* and, when it fits, the tool that makes it stick. Advice + enabler, not empty motivation.
 
 ## Thesis line
 > Motivation is a feeling; discipline is a system you can build — and here's the brain science and the stories that prove it. Whatever happened yesterday, you run it back.

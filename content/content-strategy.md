@@ -37,6 +37,14 @@ being the opposite on three axes:
 **Verbal signature / sign-off:** end pieces with **"Run it back."** — a repeatable tag that
 doubles as the CTA and trains brand recall.
 
+## The content formula (every post)
+> **Practical advice → the tool that makes it stick.**
+
+Actionable, not just inspirational. Each piece gives a do-it-today takeaway (system/rep/reframe),
+and — when it fits — points to the tool (physical or digital) that makes following through easier.
+This couples value + tools into one honest move (only recommend what enables the advice) and is
+the trust-safe affiliate integration. Not every post sells; every post *helps*.
+
 ## Content pillars (spine → proof-grounds)
 Rough target mix per week:
 - **Discipline strategies** (~30%) — systems, habits, routines, consistency mechanics.
