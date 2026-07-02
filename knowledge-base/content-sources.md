@@ -150,6 +150,33 @@ Approaching **friction points** in practice with **relaxed awareness** can *rewi
 - "Prime the day before it primes you — 10 minutes that decide the other 23." (ties to our "win the first hour")
 - "Wealth is 80% mindset. Fix the operator before the strategy." (wealth proof-ground)
 
+## 7. Bryan Johnson (Project Blueprint / "Don't Die")
+**Who:** tech founder (sold Braintree/Venmo) running a data-driven regimen to slow/reverse aging.
+**Maps to:** the **health** proof-ground + the extreme "measure-everything, system-over-willpower" mindset.
+
+**Core philosophy**
+- **"Don't Die"** — reframes health/aging as an engineering problem to measure and manage.
+- **Algorithm over willpower** — remove in-the-moment human decisions (emotional, unreliable) and hand health to a predefined protocol. "Let the data decide, not the mind."
+- **The mind is an unreliable narrator** — treat your impulses as adversarial; the pre-built system is the ally.
+- **"Evening Bryan"** — name the weak, tempted evening self and give it *zero authority* to override the rules. Bad habits = identities overruled by protocol, not nightly willpower battles.
+- **Measurement is the foundation** — track sleep, HRV, glucose, etc.; decisions from data, not feelings.
+
+**Brand-relevant habits/hacks (his approach, not advice — no doses)**
+- **Sleep is the #1 lever** ("the day starts the night before"); consistent sleep/wake times; screens off ~60 min before bed; cool dark room.
+- **Morning light** within the first ~15–30 min of waking.
+- **Early last meal / no eating late**, enforced by protocol; front-loaded eating window; same optimized meals daily (kills food decisions).
+- **Daily scheduled exercise** — Zone 2 + strength, not improvised.
+- **Reduce decision fatigue everywhere** — standardize the repeatable stuff; save willpower for what matters.
+
+**Format to borrow:** a blunt two-word rallying cry ("Don't Die") that's meme-able and identity-forming; radical transparency (open-source your protocol, be the live experiment); data-as-proof storytelling; the named-identity device ("Evening Bryan").
+
+**What Run it Back takes:**
+- "Stop negotiating with yourself at 9pm — build the rule once, then obey the system." *(pure systems-over-willpower — our ethos)*
+- "Meet 'Evening You' — the version that ruins your morning. Take away his vote."
+- "Your day starts the night before. Guard your sleep like it's the whole game." (health proof-ground)
+- "Decision fatigue is a leak. Automate the small stuff, save your will for what matters."
+- ⚠️ Use his *discipline/system* framing; avoid repeating specific doses/biomarker claims as fact.
+
 ---
 
 ## Synthesis — the drive behind Run it Back
@@ -188,6 +215,7 @@ Run it Back out of the tired grindset lane and makes it inviting *and* demanding
 - **"Motivation is weather. Discipline is gravity."** / "you have a volume problem, not a strategy problem" (Hormozi)
 - **"Discipline is the residue of obsession"** / the motivation→discipline→obsession friction triad (Williamson)
 - **"Change your body, change your state"** — physiology as the fastest lever (Tony Robbins)
+- **"Take away Evening You's vote"** — outsource willpower to a protocol; build the rule once (Bryan Johnson)
 
 ## Sources
 - [Huberman: Controlling Your Dopamine for Motivation, Focus & Satisfaction](https://www.hubermanlab.com/episode/controlling-your-dopamine-for-motivation-focus-and-satisfaction)
