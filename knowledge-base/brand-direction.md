@@ -22,7 +22,7 @@ _Status: DRAFT · basis: 2 pages analyzed · last updated 2026-07-01_
 - **Mental strength** — mindset, emotional control, focus under pressure (stoicism-adjacent).
 - **Willpower** — resisting temptation, showing up when motivation is gone.
 - **★ The Gear (maker's twist)** — honest reviews/breakdowns of the **tools of discipline & optimization, physical *and* digital** (Whoop, Brick, Oura; focus/habit/sleep apps, productivity software, systems). Build-quality/UX + "does it actually work" from a maker's eye. **This pillar is the affiliate engine** and the brand's sharpest differentiator.
-- **Proof-grounds:** *health* (train, recover, go again) and *wealth* (compound the habit, stay disciplined when it's boring) — used as concrete arenas that demonstrate the spine.
+- **Proof-grounds:** *health* (train, recover, go again) and *wealth* (compound the habit; **plus the active angle: entrepreneurial persistence — start a business, test income streams, run it back after a venture flops; chasing goals & wins**). Concrete arenas that demonstrate the spine. "Run it back" = persistence toward *any* goal, not just the gym. Includes **build-in-public** (the founder's own monetization journey as content).
 
 **Why this is strong for monetization:** an inner-game/discipline spine is unusually
 **product-native** — it maps directly to challenges, playbooks, habit systems, journals,
@@ -147,6 +147,10 @@ resumable **discipline/reset challenge** with "never miss twice" built in.
 - 2026-07-02 — **Adopted the content formula: "practical advice → the tool that makes it stick."**
   Every post is actionable (do-it-today takeaway) and, when it fits, points to the enabling tool —
   fusing value + tools into the honest affiliate integration. Added to `what-is-run-it-back.md` + `content-strategy.md`.
+- 2026-07-02 — **Broadened "run it back" to goals/wins & persistence — incl. business/making money.**
+  The comeback applies to *any* goal (body, focus, money, business); wealth proof-ground now includes
+  entrepreneurial persistence + income experiments + build-in-public. Strengthens the wealth side, the
+  Hormozi/Bartlett angle, and opens business-content + own-product territory. Updated `what-is-run-it-back.md`.
 - 2026-07-02 — **Visual identity DECIDED: "Blueprint × Concrete"** — technical dark base + heavy
   condensed type + dual accent (blue `#3B82F6` = science, orange `#FF4A1C` = push). Logo = the
   replay/loop mark (↻). Built the **`run-it-back-brand` skill** + rendered board & 3 sample posts

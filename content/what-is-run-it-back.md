@@ -10,6 +10,11 @@ video(s). Synthesized from the full knowledge base and every decision to date (2
 ## The core idea (one sentence)
 > Everybody falls off. **Run it Back is about what you do next.**
 
+It's bigger than the gym. Fell off your training, your focus, your money, your last business
+idea — doesn't matter. **You don't quit after a loss; you run the play again.** Run it Back is
+**persistence toward the goal** — on your body, your mind, your money, and your business. The
+comeback *and* the next attempt at the win.
+
 ## The elevator version
 Run it Back is a discipline brand for **the comeback** — for the person who's started strong,
 fallen off, and restarted from "day one" more times than they can count. It rejects the two
@@ -51,8 +56,9 @@ the thing that makes the how stick.
 ## Who it's for
 The guy (mostly 18–34) who *keeps restarting*: fried focus and dopamine-fried attention, fell
 off after a low point, wants to be disciplined but is exhausted by hype and tired of feeling
-behind. He doesn't need another quote — he needs a system he can resume without shame, and the
-truth about what actually helps.
+behind. He's chasing goals and wins — a better body, sharper focus, **and money / a business
+that works** — and he's failed at some of them before. He doesn't need another quote; he needs a
+system he can resume without shame, the persistence to try again, and the truth about what actually helps.
 
 ## What we make (the 6 series)
 - **Comeback Cut** — the emotional reset: "I fell off. Here's how I run it back."
@@ -60,7 +66,7 @@ truth about what actually helps.
 - **Never Miss Twice** — setback recovery: "you're allowed to miss, not to quit."
 - **Today's Rep** — one small hard thing, and why it works.
 - **The Gear** — honest reviews of the tools of discipline/focus/optimization, **physical and digital** (gadgets, wearables, apps, software, systems), from a maker's eye.
-- **Proof** — discipline applied to the body and the bank (health + wealth).
+- **Proof** — discipline applied to the body and the bank: **health**, *and* **wealth/hustle** — chasing goals & wins, persisting toward money, testing income streams, running it back after a venture flops. (Includes *build-in-public*: the founder's own "trying different ways to make money" journey — Run it Back itself.)
 
 ## Why it's different (the moat)
 1. **Mechanism, not motivation** — we explain *why it works* (Huberman-style science), not just "stay hard."
