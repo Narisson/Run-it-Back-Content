@@ -8,6 +8,14 @@ physical tools of discipline, focus, and optimization. Built from research (2026
 > **referral ≠ affiliate** — Whoop/Oura/Eight Sleep public links are *referral* (free month /
 > gift card / credit), NOT cash. Apply to their separate cash affiliate (usually via Impact).
 
+## Scope note: physical AND digital tools
+"The Gear" covers **both** physical products (below) *and* **digital productivity tools** — focus/
+habit/sleep apps, productivity software (e.g. Notion, Todoist, Sunsama, Brain.fm, meditation/sleep
+apps), and systems. Digital tools often pay **recurring subscription affiliate** (better long-term
+economics than one-off physical sales) — see the app affiliate notes in `growth-and-monetization.md`.
+A dedicated digital-tools affiliate pass is a good next research step. The physical map below stands;
+digital reviews are equally on-brand and often more monetizable.
+
 ## The core strategy: two lists, played differently
 
 1. **Design-icons** (Brick, Light Phone, Daylight, Ugmonk Analog) — the most *review-worthy*,

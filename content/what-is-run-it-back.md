@@ -4,8 +4,8 @@ The canonical articulation of the brand — the source for bios, the About page,
 video(s). Synthesized from the full knowledge base and every decision to date (2026-07-02).
 
 ## One-liner
-**Run it Back is the comeback channel** — discipline, resilience, and the real tools to get
-back up, from a product designer obsessed with what actually works.
+**Run it Back is the comeback channel** — discipline, resilience, and the real tools (physical
+*and* digital) that actually help you get back up, tested by a maker obsessed with what works.
 
 ## The core idea (one sentence)
 > Everybody falls off. **Run it Back is about what you do next.**
@@ -15,9 +15,11 @@ Run it Back is a discipline brand for **the comeback** — for the person who's 
 fallen off, and restarted from "day one" more times than they can count. It rejects the two
 things the niche is drowning in: **empty hype** and **shame-based grindset.** Instead it teaches
 the **mechanism** (the brain science of discipline) and the **method** (resumable systems like
-"never miss twice"), and — because the founder is an **industrial designer** — it honestly
-reviews the **physical tools** that claim to fix your focus, your body, and your discipline.
-Science + story + an honest designer's eye. Demanding, but never cruel.
+"never miss twice"), and it honestly reviews the **tools — physical and digital** — that claim
+to fix your focus, your body, and your discipline: the gadgets, the wearables, the apps, the
+software, the systems. (The founder designs and builds for a living, so the reviews come from a
+**maker's eye** for what actually works.) Science + story + an honest builder's eye. Demanding,
+but never cruel.
 
 ## Manifesto (voiceover-ready — the intro video spine)
 > You've done this before. Started strong. Fell off. Sat in the silence of day one — again.
@@ -28,7 +30,7 @@ Science + story + an honest designer's eye. Demanding, but never cruel.
 >
 > We don't do hype. Motivation is a feeling, and feelings leave. **Discipline is a system you can build** — and there's real brain science behind it. We teach the mechanism, not the noise.
 >
-> I'm an industrial designer. My whole job is figuring out whether things actually work. So I'll test the gear that promises to fix your focus, your sleep, your discipline — and tell you the truth, even when the truth is "don't buy it."
+> I design and build for a living, so I'm obsessed with one question: does this actually work? I'll test the tools that promise to fix your focus, your sleep, your discipline — the gadgets, the apps, the systems — and tell you the truth, even when the truth is "don't buy it."
 >
 > No grindset. No shame. Just the reps, the science, and the honest tools.
 >
@@ -47,13 +49,13 @@ truth about what actually helps.
 - **The Discipline Lab** — the science: "there's a part of your brain that grows when you do hard things."
 - **Never Miss Twice** — setback recovery: "you're allowed to miss, not to quit."
 - **Today's Rep** — one small hard thing, and why it works.
-- **The Gear** — a designer's honest reviews of the tools of discipline/focus/optimization.
+- **The Gear** — honest reviews of the tools of discipline/focus/optimization, **physical and digital** (gadgets, wearables, apps, software, systems), from a maker's eye.
 - **Proof** — discipline applied to the body and the bank (health + wealth).
 
 ## Why it's different (the moat)
 1. **Mechanism, not motivation** — we explain *why it works* (Huberman-style science), not just "stay hard."
 2. **Resumable discipline** — we own the *comeback*, not the flawless streak. Anti-shame.
-3. **A real designer's authority** — honest, credible product reviews no faceless page can fake.
+3. **A maker's authority** — you design and build for a living, so honest tool reviews (physical *and* digital) carry credibility no faceless page can fake.
 4. **Anti-grindset** — helpful and demanding, not toxic. Safer and more human.
 5. **Science + story** — the head (why) and the heart (comeback narratives) together.
 
