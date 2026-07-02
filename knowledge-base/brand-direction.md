@@ -91,6 +91,7 @@ resumable **discipline/reset challenge** with "never miss twice" built in.
 
 ## Still open (decide as we learn)
 - **The character/persona:** who is the Higgsfield on-screen character (look, name, vibe)? Parked until the business plan is firmer.
+- **Differentiation to deepen:** we lead with mechanism + resumable discipline + signature series; keep hunting for a sharper wedge as we see what lands.
 - **First own product:** which discipline artifact leads — a challenge, a resilience
   playbook/ebook, or a journal/habit system?
 - **Health-led monetization** — need pages in that lane to see how the proof-grounds monetize (supplement/program/coaching models).
@@ -119,4 +120,9 @@ resumable **discipline/reset challenge** with "never miss twice" built in.
   health/wealth proof-grounds). Flagship rule surfaced: **"Never miss twice."** No Goggins on DOAC (confirmed).
 - 2026-07-02 — Built **`audience-personas.md`** via parallel audience research. Key finding: the
   brand name matches the core pain (restart-shame loop). Defined the male-core vs. health-crossover
-  fork and 4 personas. _Open: center the male core vs. build the crossover in from day one._
+  fork and 4 personas.
+- 2026-07-02 — **Audience DECIDED: center the male-discipline core** (crossover = later expansion).
+  Goal noted: keep sharpening differentiation. Built **`../content/`** — content strategy + launch
+  plan (differentiation, 5 signature series, 30-day sprint, funnel) and **launch-batch-01** (12
+  ready-to-shoot scripts). Differentiation = mechanism (science) + resumable discipline + signature
+  series + "Run it back." sign-off.
