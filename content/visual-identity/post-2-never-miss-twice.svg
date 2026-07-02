@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1080" height="1920" fill="#0A0E14"/>
+  <rect x="0" y="0" width="1080" height="12" fill="#FF4A1C"/>
+  <!-- top brand bar -->
+  <g transform="translate(80,130)">
+    <g transform="translate(0,-24)"><path d="M 22 6 A 24 24 0 1 0 46 30" fill="none" stroke="#3B82F6" stroke-width="8" stroke-linecap="round"/><path d="M 13 -4 L 25 6 L 11 15 Z" fill="#FF4A1C"/></g>
+    <text x="72" y="8" font-family="Impact,'Arial Narrow',sans-serif" font-size="40" letter-spacing="1" fill="#F4F7FB">RUN IT BACK</text>
+  </g>
+  <text x="80" y="320" font-family="'Courier New',monospace" font-size="30" letter-spacing="6" fill="#FF4A1C">NEVER MISS TWICE</text>
+  <line x1="80" y1="350" x2="380" y2="350" stroke="#FF4A1C" stroke-width="4"/>
+
+  <!-- calendar motif -->
+  <g transform="translate(80,430)">
+    <rect x="0" y="0" width="90" height="90" rx="10" fill="#131C26"/><path d="M22 45 L40 63 L70 27" stroke="#8A9AAC" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <rect x="110" y="0" width="90" height="90" rx="10" fill="#131C26"/><path d="M132 45 L150 63 L180 27" stroke="#8A9AAC" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <rect x="220" y="0" width="90" height="90" rx="10" fill="#1A0E0B" stroke="#FF4A1C" stroke-width="3"/><path d="M245 25 L285 65 M285 25 L245 65" stroke="#FF4A1C" stroke-width="8" stroke-linecap="round"/>
+    <rect x="330" y="0" width="90" height="90" rx="10" fill="#0C1219" stroke="#3B82F6" stroke-width="3"/><path d="M352 45 L370 63 L400 27" stroke="#3B82F6" stroke-width="8" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- headline -->
+  <g font-family="Impact, Haettenschweiler, 'Arial Narrow', sans-serif" letter-spacing="1">
+    <text x="76" y="800" font-size="160" fill="#F4F7FB">YOU'RE</text>
+    <text x="76" y="960" font-size="160" fill="#F4F7FB">ALLOWED</text>
+    <text x="76" y="1120" font-size="160" fill="#F4F7FB">TO MISS.</text>
+    <text x="76" y="1330" font-size="130" fill="#8A9AAC">YOU'RE NOT</text>
+    <text x="76" y="1460" font-size="130" fill="#8A9AAC">ALLOWED TO</text>
+    <text x="76" y="1590" font-size="130" fill="#FF4A1C">MISS TWICE.</text>
+  </g>
+
+  <!-- footer -->
+  <g transform="translate(80,1760)">
+    <text x="0" y="0" font-family="'Courier New',monospace" font-size="34" fill="#FF4A1C">↻</text>
+    <text x="46" y="0" font-size="34" fill="#8A9AAC">run it back.</text>
+    <text x="0" y="60" font-size="28" fill="#4A5A6B">missed today? the only rule: don't miss tomorrow.</text>
+  </g>
+</svg>

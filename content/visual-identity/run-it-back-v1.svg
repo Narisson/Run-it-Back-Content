@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1080" height="1350" fill="#0A0E14"/>
+  <g stroke="#16202B" stroke-width="1">
+    <line x1="0" y1="337" x2="1080" y2="337"/><line x1="0" y1="675" x2="1080" y2="675"/><line x1="0" y1="1012" x2="1080" y2="1012"/>
+    <line x1="270" y1="0" x2="270" y2="1350"/><line x1="540" y1="0" x2="540" y2="1350"/><line x1="810" y1="0" x2="810" y2="1350"/>
+  </g>
+  <!-- header -->
+  <g transform="translate(80,112)">
+    <g transform="translate(0,-30)">
+      <path d="M 30 8 A 34 34 0 1 0 64 42" fill="none" stroke="#3B82F6" stroke-width="11" stroke-linecap="round"/>
+      <path d="M 18 -6 L 34 8 L 16 20 Z" fill="#FF4A1C"/>
+    </g>
+    <text x="100" y="10" font-family="Impact, Haettenschweiler, 'Arial Narrow', sans-serif" font-size="76" letter-spacing="2" fill="#F4F7FB">RUN IT BACK</text>
+    <text x="103" y="46" font-family="'Courier New',monospace" font-size="19" letter-spacing="6" fill="#5B7185">DISCIPLINE · SCIENCE · RESILIENCE</text>
+  </g>
+  <text x="80" y="248" font-family="'Courier New',monospace" font-size="18" letter-spacing="4" fill="#3B82F6">IDENTITY v1 — "BLUEPRINT × CONCRETE"</text>
+  <text x="80" y="282" font-size="22" fill="#8A9AAC">Technical dark base + heavy condensed type. Dual accent: blue = science, orange = push.</text>
+
+  <!-- palette -->
+  <text x="80" y="378" font-family="'Courier New',monospace" font-size="19" letter-spacing="5" fill="#5B7185">01 / PALETTE</text>
+  <g transform="translate(80,405)">
+    <rect x="0" y="0" width="146" height="164" rx="6" fill="#0A0E14" stroke="#233240"/>
+    <rect x="160" y="0" width="146" height="164" rx="6" fill="#131C26"/>
+    <rect x="320" y="0" width="146" height="164" rx="6" fill="#3B82F6"/>
+    <rect x="480" y="0" width="146" height="164" rx="6" fill="#FF4A1C"/>
+    <rect x="640" y="0" width="146" height="164" rx="6" fill="#8A9AAC"/>
+    <rect x="800" y="0" width="146" height="164" rx="6" fill="#F4F7FB"/>
+    <g font-family="'Courier New',monospace" font-size="15" fill="#8A9AAC">
+      <text x="0" y="188">#0A0E14</text><text x="160" y="188">#131C26</text>
+      <text x="320" y="188" fill="#3B82F6">#3B82F6</text><text x="480" y="188" fill="#FF4A1C">#FF4A1C</text>
+      <text x="640" y="188">#8A9AAC</text><text x="800" y="188">#F4F7FB</text>
+    </g>
+    <g font-size="12" fill="#5B7185">
+      <text x="0" y="210">INK</text><text x="160" y="210">SURFACE</text><text x="320" y="210">SIGNAL</text><text x="480" y="210">BLAZE</text><text x="640" y="210">STEEL</text><text x="800" y="210">BONE</text>
+    </g>
+  </g>
+
+  <!-- type + accent rule -->
+  <text x="80" y="742" font-family="'Courier New',monospace" font-size="19" letter-spacing="5" fill="#5B7185">02 / TYPE &amp; ACCENT RULE</text>
+  <text x="76" y="820" font-family="Impact, Haettenschweiler, 'Arial Narrow', sans-serif" font-size="72" letter-spacing="1" fill="#F4F7FB">HEAVY CONDENSED DISPLAY</text>
+  <text x="80" y="858" font-family="'Courier New',monospace" font-size="20" fill="#3B82F6">mono for labels / data · sans for body</text>
+  <g font-size="20">
+    <text x="80" y="900" fill="#8A9AAC">Accent rule — <tspan fill="#3B82F6">BLUE</tspan> for teaching/science posts · <tspan fill="#FF4A1C">ORANGE</tspan> for push/comeback posts. One per frame.</text>
+  </g>
+
+  <!-- sample posts -->
+  <text x="80" y="962" font-family="'Courier New',monospace" font-size="19" letter-spacing="5" fill="#5B7185">03 / TWO MODES</text>
+  <!-- blue mode -->
+  <g transform="translate(80,988)">
+    <rect x="0" y="0" width="435" height="318" rx="14" fill="#0C1219" stroke="#233240"/>
+    <text x="26" y="52" font-family="'Courier New',monospace" font-size="15" letter-spacing="3" fill="#3B82F6">THE DISCIPLINE LAB · science</text>
+    <text x="24" y="146" font-family="Impact, 'Arial Narrow', sans-serif" font-size="58" fill="#F4F7FB">DISCIPLINE</text>
+    <text x="24" y="200" font-family="Impact, 'Arial Narrow', sans-serif" font-size="58" fill="#F4F7FB">IS A</text>
+    <text x="24" y="254" font-family="Impact, 'Arial Narrow', sans-serif" font-size="58" fill="#3B82F6">MUSCLE.</text>
+    <text x="26" y="298" font-size="16" fill="#8A9AAC">↻ run it back.</text>
+  </g>
+  <!-- orange mode -->
+  <g transform="translate(545,988)">
+    <rect x="0" y="0" width="435" height="318" rx="14" fill="#0C1219" stroke="#2A2825"/>
+    <rect x="0" y="0" width="435" height="7" rx="3" fill="#FF4A1C"/>
+    <text x="26" y="52" font-family="'Courier New',monospace" font-size="15" letter-spacing="3" fill="#FF4A1C">NEVER MISS TWICE · push</text>
+    <text x="24" y="146" font-family="Impact, 'Arial Narrow', sans-serif" font-size="58" fill="#F4F7FB">MISS</text>
+    <text x="24" y="200" font-family="Impact, 'Arial Narrow', sans-serif" font-size="58" fill="#F4F7FB">ONCE.</text>
+    <text x="24" y="254" font-family="Impact, 'Arial Narrow', sans-serif" font-size="58" fill="#FF4A1C">GET UP.</text>
+    <text x="26" y="298" font-size="16" fill="#8A9AAC">↻ run it back.</text>
+  </g>
+</svg>
