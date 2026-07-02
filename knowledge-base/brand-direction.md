@@ -91,7 +91,8 @@ resumable **discipline/reset challenge** with "never miss twice" built in.
 
 ## Still open (decide as we learn)
 - **The character/persona:** who is the Higgsfield on-screen character (look, name, vibe)? Parked until the business plan is firmer.
-- **Differentiation to deepen:** we lead with mechanism + resumable discipline + signature series; keep hunting for a sharper wedge as we see what lands.
+- **CONFIRM the "comeback" niche-down** (see `../content/growth-and-monetization.md`): position as *"discipline for the comeback"* — for guys who fell off and are running it back. Recommended; narrows the brand on purpose. _Awaiting your call._
+- **Lead affiliate categories:** proposed books (now) → supplements + wearables (at traction) → Skool/own community (endgame).
 - **First own product:** which discipline artifact leads — a challenge, a resilience
   playbook/ebook, or a journal/habit system?
 - **Health-led monetization** — need pages in that lane to see how the proof-grounds monetize (supplement/program/coaching models).
@@ -126,6 +127,11 @@ resumable **discipline/reset challenge** with "never miss twice" built in.
   reinvention arc — strong male-core fit), and **Tony Robbins** (state Triad, raise your standards, priming).
 - 2026-07-02 — Added **Bryan Johnson** (Blueprint/"Don't Die"): algorithm-over-willpower, "Evening Bryan,"
   sleep-first, measure-everything — the health proof-ground + systems-over-willpower extreme.
+- 2026-07-02 — Built **`../content/growth-and-monetization.md`** via parallel research (affiliate programs +
+  short-form growth). Key insight: differentiation, growth, and money are one decision. Proposed the
+  **"comeback" niche-down**, the growth engine (completion+sends, series, platform roles), and the
+  **affiliate map** (pillar→product; Skool recurring / supplements / wearables "measure your discipline" /
+  books floor; TikTok Shop + Amazon storefront + email as distribution; FTC disclosure).
 - 2026-07-02 — **Visual identity DECIDED: "Blueprint × Concrete"** — technical dark base + heavy
   condensed type + dual accent (blue `#3B82F6` = science, orange `#FF4A1C` = push). Logo = the
   replay/loop mark (↻). Built the **`run-it-back-brand` skill** + rendered board & 3 sample posts
