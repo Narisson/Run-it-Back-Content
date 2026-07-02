@@ -53,6 +53,7 @@ Rotate these so the feed is recognizable, not random:
 3. **Run It Back** — 60s comeback stories (athletes, founders, anyone who fell and returned). *Literal brand name as a series; emotional/shareable.* (Verify all facts before posting.)
 4. **Today's Rep** — one small hard thing + the reason it works ("your daily micro-suck"). *Actionable, daily-friendly.*
 5. **Proof** — discipline applied to the body or the bank ("comfort is aging you"; "boring compounds"). *Proof-grounds.*
+6. **★ The Gear** — a product designer reviews the physical tools of discipline/focus/optimization (Brick, Whoop, Oura, cold plunge…). Build-quality + UX + "does it actually work." *The affiliate engine + sharpest differentiator.* See `gear-affiliate-map.md`. Best in the founder's own voice, hands-on/on-camera.
 
 ## Format & production (starting now)
 - **Primary format:** vertical short-form video, 20–45s. Structure: **hook (0–2s) → tension/why → tool/payoff → sign-off + CTA.**
