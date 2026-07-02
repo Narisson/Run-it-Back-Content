@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <radialGradient id="g" cx="0.5" cy="0.34" r="0.5">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.20"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="#0A0E14"/>
+  <circle cx="540" cy="720" r="520" fill="url(#g)"/>
+  <!-- big loop mark -->
+  <g transform="translate(540,700)">
+    <path d="M 0 -150 A 150 150 0 1 0 106 -106" fill="none" stroke="#3B82F6" stroke-width="30" stroke-linecap="round"/>
+    <path d="M -44 -196 L 24 -150 L -46 -104 Z" fill="#FF4A1C"/>
+  </g>
+  <g font-family="Impact, Haettenschweiler, 'Arial Narrow', sans-serif" letter-spacing="1" text-anchor="middle">
+    <text x="540" y="1120" font-size="150" fill="#F4F7FB">NEVER</text>
+    <text x="540" y="1270" font-size="150" fill="#F4F7FB">MISS</text>
+    <text x="540" y="1420" font-size="150" fill="#3B82F6">TWICE.</text>
+  </g>
+  <g transform="translate(0,1620)" text-anchor="middle">
+    <text x="540" y="0" font-size="44" fill="#F4F7FB"><tspan font-family="'Courier New',monospace" fill="#3B82F6">↻ </tspan>run it back.</text>
+    <text x="540" y="70" font-family="'Courier New',monospace" font-size="30" letter-spacing="3" fill="#8A9AAC">@runitback_club</text>
+  </g>
+</svg>
