@@ -91,7 +91,7 @@ resumable **discipline/reset challenge** with "never miss twice" built in.
 
 ## Still open (decide as we learn)
 - **The character/persona:** who is the Higgsfield on-screen character (look, name, vibe)? Parked until the business plan is firmer.
-- **CONFIRM the "comeback" niche-down** (see `../content/growth-and-monetization.md`): position as *"discipline for the comeback"* — for guys who fell off and are running it back. Recommended; narrows the brand on purpose. _Awaiting your call._
+- **CONFIRM the "comeback" niche-down** (see `../content/growth-and-monetization.md`): position as *"discipline for the comeback"* — for guys who fell off and are running it back. Recommended; narrows the brand on purpose. **Now validated by live vidiQ data** (`viral-patterns.md`): comeback hooks overperform ("I haven't been consistent… lock back in" = 877K/379×) and no one owns the angle. _Awaiting your call._
 - **Lead affiliate categories:** proposed books (now) → supplements + wearables (at traction) → Skool/own community (endgame).
 - **First own product:** which discipline artifact leads — a challenge, a resilience
   playbook/ebook, or a journal/habit system?
