@@ -118,6 +118,23 @@ discipline"). The content people follow us *for* is the content that sells. Stee
 - **Email list** — the ownership layer; recommend to a warm audience (higher conversion than cold in-bio). Build it from post #1.
 Route everything through these, not scattered link-in-bio.
 
+### A second engine — the website as an SEO affiliate asset (complementary)
+From the Adam Enfroy resource ("Affiliate Marketing with Claude in 2026"). His method is
+**blog/SEO-centric** — a different axis from our short-form-first plan, so treat it as a
+*complementary Phase-2 channel*, not a replacement. Short-form = discovery (rented); an SEO
+blog = durable, searchable, affiliate-native (owned). The genuinely useful, transferable parts:
+- **Program-first niching** — validate real affiliate offers exist *before* creating content (we already lean this way; make it explicit).
+- **AI-assisted long-form drafting** (Claude for outlines/drafts) for the website — e.g. "best habit-tracking apps," "Whoop vs Oura for discipline," review/comparison posts that are *natively* affiliate and rank in search.
+- **Topical authority** via consistent publishing + internal linking — durable SEO, not a fad.
+- **Automation later** (Sheets → AI → publish pipeline) once the manual version works.
+- **Own the audience + own product** — matches our strategy.
+
+**Caveats (be skeptical):** the video is a funnel for a **$747 course**, and its tool picks
+(Hostinger, Thinkific) are *his* affiliate links — validate independently. **AI mass-publishing
+is risky in 2026** — Google's helpful-content/spam updates punish thin AI content, so anything we
+publish needs real experience/insight (E-E-A-T), not volume. Results are **back-loaded** (a year+),
+so this is a long-game asset, not quick money. Mine the *workflow*, ignore the "secret/no-one-is-doing-this" framing.
+
 ### Economics reality (set expectations)
 - **Recurring (Skool) > high-ticket one-off (Eight Sleep/sauna) > consumables (supplements) > low-AOV floor (books/gear).**
 - Consumables are the physical-goods sweet spot (repeat purchase ≈ semi-recurring).
@@ -134,6 +151,7 @@ Route everything through these, not scattered link-in-bio.
 - **Now (pre-revenue):** lock the comeback niche + mechanism; build the email list + lead magnet; join **Amazon Associates** + **Bookshop**; set up the Amazon storefront; start disclosing.
 - **At ~1–5k followers:** Amazon Influencer storefront; apply to **supplement** + **wearable** programs; TikTok Shop at 5k.
 - **At traction:** **Skool** affiliate and/or launch our **own community/product** (the highest-margin endgame — affiliate funds it, then we sell our own).
+- **Phase 2 (parallel long-game):** stand up the **SEO blog** on the website (review/comparison posts that are natively affiliate) — durable search traffic that compounds while short-form drives discovery.
 
 ## Open decisions for you
 1. **Confirm the comeback niche-down** ("discipline for the comeback") as the core positioning? *(I recommend yes — it's the sharpest, most ownable, most on-name wedge.)*
