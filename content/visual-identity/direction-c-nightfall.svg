@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#14161D"/><stop offset="1" stop-color="#090A0E"/>
+    </linearGradient>
+    <linearGradient id="ember" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF8A3D"/><stop offset="1" stop-color="#FF4D5E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF6A45" stop-opacity="0.28"/><stop offset="1" stop-color="#FF6A45" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#night)"/>
+  <circle cx="880" cy="180" r="420" fill="url(#glow)"/>
+
+  <!-- header -->
+  <g transform="translate(80,120)">
+    <g transform="translate(0,-30)">
+      <path d="M 30 8 A 34 34 0 1 0 64 42" fill="none" stroke="url(#ember)" stroke-width="9" stroke-linecap="round"/>
+      <path d="M 18 -6 L 34 8 L 16 20 Z" fill="#FF7A45"/>
+    </g>
+    <text x="100" y="10" font-size="64" font-style="italic" fill="#F5F1EA">Run it Back</text>
+    <text x="103" y="48" font-family="Arial,sans-serif" font-size="19" letter-spacing="7" fill="#8A8578">THE INNER GAME OF COMING BACK</text>
+  </g>
+  <text x="80" y="250" font-family="Arial,sans-serif" font-size="19" letter-spacing="4" fill="#FF7A45">DIRECTION C — "NIGHTFALL"</text>
+  <text x="80" y="286" font-family="Arial,sans-serif" font-size="22" fill="#9A9488">Cinematic, premium, emotional. Dawn/comeback warmth. Leans Optimizer + crossover.</text>
+
+  <!-- palette -->
+  <text x="80" y="382" font-family="Arial,sans-serif" font-size="19" letter-spacing="5" fill="#6C6659">01 / PALETTE</text>
+  <g transform="translate(80,410)">
+    <rect x="0" y="0" width="180" height="180" rx="4" fill="#090A0E"/>
+    <rect x="196" y="0" width="180" height="180" rx="4" fill="#1B1E27"/>
+    <rect x="392" y="0" width="180" height="180" rx="4" fill="url(#ember)"/>
+    <rect x="588" y="0" width="180" height="180" rx="4" fill="#8A8578"/>
+    <rect x="784" y="0" width="180" height="180" rx="4" fill="#F5F1EA"/>
+    <g font-family="'Courier New',monospace" font-size="16" fill="#8A8578">
+      <text x="0" y="205">#090A0E</text><text x="196" y="205">#1B1E27</text>
+      <text x="392" y="205" fill="#FF7A45">EMBER</text><text x="588" y="205">#8A8578</text><text x="784" y="205">#F5F1EA</text>
+    </g>
+    <g font-family="Arial,sans-serif" font-size="13" fill="#6C6659">
+      <text x="0" y="228">MIDNIGHT</text><text x="196" y="228">SLATE</text><text x="392" y="228">EMBER GRAD</text><text x="588" y="228">ASH</text><text x="784" y="228">IVORY</text>
+    </g>
+  </g>
+
+  <!-- type -->
+  <text x="80" y="744" font-family="Arial,sans-serif" font-size="19" letter-spacing="5" fill="#6C6659">02 / TYPE</text>
+  <text x="78" y="812" font-size="60" font-style="italic" fill="#F5F1EA">Serif display — gravitas</text>
+  <text x="80" y="854" font-family="Arial,sans-serif" font-size="21" fill="#C6C0B4">Clean sans for body. Ships with: Instrument/Young Serif + a grotesque sans.</text>
+
+  <!-- sample post -->
+  <text x="80" y="946" font-family="Arial,sans-serif" font-size="19" letter-spacing="5" fill="#6C6659">03 / SAMPLE POST</text>
+  <g transform="translate(80,972)">
+    <rect x="0" y="0" width="360" height="332" rx="12" fill="#0B0D12"/>
+    <circle cx="300" cy="60" r="150" fill="url(#glow)"/>
+    <text x="26" y="56" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#FF7A45">RUN IT BACK</text>
+    <text x="24" y="150" font-size="46" font-style="italic" fill="#F5F1EA">It's not the</text>
+    <text x="24" y="204" font-size="46" font-style="italic" fill="#F5F1EA">knockdown.</text>
+    <text x="24" y="262" font-size="30" font-style="italic" fill="#FF7A45">It's the get-up.</text>
+    <text x="26" y="308" font-family="Arial,sans-serif" font-size="15" fill="#9A9488">↻ run it back.</text>
+  </g>
+  <g transform="translate(470,972)">
+    <rect x="0" y="0" width="530" height="332" rx="12" fill="#1B1E27"/>
+    <text x="34" y="60" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#FF7A45">WHY IT WORKS</text>
+    <g font-family="Arial,sans-serif" font-size="20" fill="#CFC9BD">
+      <text x="34" y="112">Premium and cinematic — the ember glow</text>
+      <text x="34" y="144">reads as dawn / comeback, matching the</text>
+      <text x="34" y="176">"inner game of coming back" thesis.</text>
+      <text x="34" y="220">Feels more mature &amp; sellable (products),</text>
+      <text x="34" y="252">and the warmth widens reach toward the</text>
+      <text x="34" y="284">health-led crossover. Least "grindset."</text>
+    </g>
+  </g>
+</svg>

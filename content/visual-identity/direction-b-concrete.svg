@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="'Arial Black', Impact, Haettenschweiler, sans-serif">
+  <defs>
+    <linearGradient id="concrete" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171614"/><stop offset="1" stop-color="#0C0B0A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#concrete)"/>
+  <!-- diagonal accent slab -->
+  <polygon points="0,0 300,0 120,1350 0,1350" fill="#1E1D1A"/>
+  <rect x="0" y="0" width="14" height="1350" fill="#FF4A1C"/>
+
+  <!-- header -->
+  <g transform="translate(80,120)">
+    <g transform="translate(0,-30)">
+      <path d="M 30 8 A 34 34 0 1 0 64 42" fill="none" stroke="#FF4A1C" stroke-width="12" stroke-linecap="butt"/>
+      <path d="M 16 -8 L 36 8 L 14 22 Z" fill="#FF4A1C"/>
+    </g>
+    <text x="100" y="14" font-size="70" fill="#F2EEE8" letter-spacing="-1">RUN IT BACK</text>
+    <text x="103" y="52" font-family="'Arial Narrow',Arial,sans-serif" font-size="21" letter-spacing="10" fill="#8C857B">NO EXCUSES · JUST REPS</text>
+  </g>
+  <text x="80" y="255" font-family="'Arial Narrow',Arial,sans-serif" font-size="20" letter-spacing="5" fill="#FF4A1C">DIRECTION B — "CONCRETE"</text>
+  <text x="80" y="290" font-family="Arial, sans-serif" font-size="22" fill="#A39C90">Brutalist, gritty, athletic. The fight-gym / grind aesthetic.</text>
+
+  <!-- palette -->
+  <text x="80" y="386" font-family="'Arial Narrow',Arial,sans-serif" font-size="21" letter-spacing="6" fill="#6E6860">01 / PALETTE</text>
+  <g transform="translate(80,412)">
+    <rect x="0" y="0" width="180" height="180" fill="#0C0B0A"/>
+    <rect x="196" y="0" width="180" height="180" fill="#1E1D1A"/>
+    <rect x="392" y="0" width="180" height="180" fill="#FF4A1C"/>
+    <rect x="588" y="0" width="180" height="180" fill="#8C857B"/>
+    <rect x="784" y="0" width="180" height="180" fill="#F2EEE8"/>
+    <g font-family="'Arial Narrow',Arial,sans-serif" font-size="17" fill="#8C857B">
+      <text x="0" y="205">#0C0B0A</text><text x="196" y="205">#1E1D1A</text>
+      <text x="392" y="205" fill="#FF4A1C">#FF4A1C</text><text x="588" y="205">#8C857B</text><text x="784" y="205">#F2EEE8</text>
+    </g>
+    <g font-family="Arial,sans-serif" font-size="13" fill="#6E6860">
+      <text x="0" y="228">ASPHALT</text><text x="196" y="228">SLAB</text><text x="392" y="228">BLAZE</text><text x="588" y="228">STEEL</text><text x="784" y="228">CHALK</text>
+    </g>
+  </g>
+
+  <!-- type -->
+  <text x="80" y="748" font-family="'Arial Narrow',Arial,sans-serif" font-size="21" letter-spacing="6" fill="#6E6860">02 / TYPE</text>
+  <text x="78" y="826" font-size="72" fill="#F2EEE8" letter-spacing="-1">HEAVY. CONDENSED.</text>
+  <text x="80" y="866" font-family="Arial, sans-serif" font-size="20" fill="#A39C90">Massive uppercase display, tight tracking. Ships with: Big Shoulders / Boldonse.</text>
+
+  <!-- sample post -->
+  <text x="80" y="948" font-family="'Arial Narrow',Arial,sans-serif" font-size="21" letter-spacing="6" fill="#6E6860">03 / SAMPLE POST</text>
+  <g transform="translate(80,975)">
+    <rect x="0" y="0" width="360" height="330" fill="#0C0B0A" stroke="#2A2825"/>
+    <rect x="0" y="0" width="360" height="8" fill="#FF4A1C"/>
+    <text x="24" y="58" font-family="'Arial Narrow',Arial,sans-serif" font-size="16" letter-spacing="4" fill="#FF4A1C">NEVER MISS TWICE</text>
+    <text x="20" y="150" font-size="66" fill="#F2EEE8">MISS</text>
+    <text x="20" y="212" font-size="66" fill="#F2EEE8">ONCE.</text>
+    <text x="20" y="278" font-size="40" fill="#FF4A1C">GET UP.</text>
+    <text x="24" y="315" font-family="Arial,sans-serif" font-size="15" fill="#8C857B">↻ run it back.</text>
+  </g>
+  <g transform="translate(470,975)">
+    <rect x="0" y="0" width="530" height="330" fill="#1E1D1A"/>
+    <text x="34" y="60" font-family="'Arial Narrow',Arial,sans-serif" font-size="24" letter-spacing="2" fill="#FF4A1C">WHY IT WORKS</text>
+    <g font-family="Arial,sans-serif" font-size="20" fill="#CFC8BC">
+      <text x="34" y="112">Raw, loud, unmistakably masculine.</text>
+      <text x="34" y="144">Heavy condensed type + one blaze-orange</text>
+      <text x="34" y="176">accent hits the young-male core hard.</text>
+      <text x="34" y="220">Risk: closest to "generic gym motivation."</text>
+      <text x="34" y="252">We'd win on the WORDS (method, not hype)</text>
+      <text x="34" y="284">so the look can be aggressive.</text>
+    </g>
+  </g>
+</svg>

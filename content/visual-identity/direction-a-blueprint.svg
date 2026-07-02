@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1080" height="1350" fill="#0A0E14"/>
+  <!-- faint technical grid -->
+  <g stroke="#16202B" stroke-width="1">
+    <line x1="0" y1="337" x2="1080" y2="337"/><line x1="0" y1="675" x2="1080" y2="675"/><line x1="0" y1="1012" x2="1080" y2="1012"/>
+    <line x1="270" y1="0" x2="270" y2="1350"/><line x1="540" y1="0" x2="540" y2="1350"/><line x1="810" y1="0" x2="810" y2="1350"/>
+  </g>
+  <!-- header: logo mark + wordmark -->
+  <g transform="translate(80,110)">
+    <!-- replay loop mark -->
+    <g transform="translate(0,-28)">
+      <path d="M 30 8 A 34 34 0 1 0 64 42" fill="none" stroke="#3B82F6" stroke-width="10" stroke-linecap="round"/>
+      <path d="M 18 -6 L 34 8 L 16 20 Z" fill="#3B82F6"/>
+    </g>
+    <text x="100" y="8" font-size="62" font-weight="bold" letter-spacing="1" fill="#F4F7FB">RUN IT BACK</text>
+    <text x="102" y="46" font-family="'Courier New',monospace" font-size="20" letter-spacing="6" fill="#5B7185">DISCIPLINE · SCIENCE · RESILIENCE</text>
+  </g>
+  <text x="80" y="250" font-family="'Courier New',monospace" font-size="18" letter-spacing="4" fill="#3B82F6">DIRECTION A — "BLUEPRINT"</text>
+  <text x="80" y="284" font-size="22" fill="#8A9AAC">Analytical, technical, credible. Leans into the "mechanism" differentiator.</text>
+
+  <!-- palette -->
+  <text x="80" y="380" font-family="'Courier New',monospace" font-size="20" letter-spacing="5" fill="#5B7185">01 / PALETTE</text>
+  <g transform="translate(80,410)">
+    <rect x="0" y="0" width="180" height="180" rx="6" fill="#0A0E14" stroke="#233240" stroke-width="1"/>
+    <rect x="196" y="0" width="180" height="180" rx="6" fill="#131C26"/>
+    <rect x="392" y="0" width="180" height="180" rx="6" fill="#3B82F6"/>
+    <rect x="588" y="0" width="180" height="180" rx="6" fill="#8A9AAC"/>
+    <rect x="784" y="0" width="180" height="180" rx="6" fill="#F4F7FB"/>
+    <g font-family="'Courier New',monospace" font-size="16" fill="#8A9AAC">
+      <text x="0" y="205">#0A0E14</text><text x="196" y="205">#131C26</text>
+      <text x="392" y="205" fill="#3B82F6">#3B82F6</text><text x="588" y="205">#8A9AAC</text><text x="784" y="205">#F4F7FB</text>
+    </g>
+    <g font-size="13" fill="#5B7185">
+      <text x="0" y="228">INK</text><text x="196" y="228">SURFACE</text><text x="392" y="228">SIGNAL</text><text x="588" y="228">MUTED</text><text x="784" y="228">BONE</text>
+    </g>
+  </g>
+
+  <!-- type -->
+  <text x="80" y="745" font-family="'Courier New',monospace" font-size="20" letter-spacing="5" fill="#5B7185">02 / TYPE</text>
+  <text x="78" y="812" font-size="58" font-weight="bold" fill="#F4F7FB">Display — Grotesque Bold</text>
+  <text x="80" y="852" font-family="'Courier New',monospace" font-size="21" fill="#3B82F6">Labels / data — Monospace</text>
+  <text x="80" y="884" font-size="20" fill="#8A9AAC">Body — clean sans. Ships with: Big Shoulders (display) + a mono for captions.</text>
+
+  <!-- sample reel card -->
+  <text x="80" y="960" font-family="'Courier New',monospace" font-size="20" letter-spacing="5" fill="#5B7185">03 / SAMPLE POST</text>
+  <g transform="translate(80,985)">
+    <rect x="0" y="0" width="360" height="320" rx="14" fill="#0C1219" stroke="#233240"/>
+    <text x="24" y="52" font-family="'Courier New',monospace" font-size="15" letter-spacing="3" fill="#3B82F6">THE DISCIPLINE LAB</text>
+    <text x="24" y="150" font-size="52" font-weight="bold" fill="#F4F7FB">NEVER</text>
+    <text x="24" y="204" font-size="52" font-weight="bold" fill="#F4F7FB">MISS</text>
+    <text x="24" y="258" font-size="52" font-weight="bold" fill="#3B82F6">TWICE.</text>
+    <text x="24" y="300" font-size="16" fill="#8A9AAC">↻ run it back.</text>
+  </g>
+  <g transform="translate(470,985)">
+    <rect x="0" y="0" width="530" height="320" rx="14" fill="#131C26"/>
+    <text x="34" y="60" font-size="22" font-weight="bold" fill="#3B82F6">WHY IT WORKS</text>
+    <text x="34" y="110" font-size="20" fill="#C7D2DC">Dark, high-contrast, and technical —</text>
+    <text x="34" y="140" font-size="20" fill="#C7D2DC">reads as "evidence," not hype. The one</text>
+    <text x="34" y="170" font-size="20" fill="#C7D2DC">electric-blue signal = data / science.</text>
+    <text x="34" y="212" font-size="20" fill="#C7D2DC">Separates us from quote-page pastel and</text>
+    <text x="34" y="242" font-size="20" fill="#C7D2DC">cinematic-hype teal. Says: this brand</text>
+    <text x="34" y="272" font-size="20" fill="#C7D2DC">explains the machine.</text>
+  </g>
+</svg>
