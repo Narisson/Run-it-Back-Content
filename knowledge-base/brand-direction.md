@@ -121,6 +121,9 @@ resumable **discipline/reset challenge** with "never miss twice" built in.
 - 2026-07-02 — Built **`audience-personas.md`** via parallel audience research. Key finding: the
   brand name matches the core pain (restart-shame loop). Defined the male-core vs. health-crossover
   fork and 4 personas.
+- 2026-07-02 — Expanded `content-sources.md` with **Hormozi** (volume/Rule of 100, wealth proof-ground),
+  **Chris Williamson** (friction triad: motivation→discipline→obsession; productivity dysmorphia;
+  reinvention arc — strong male-core fit), and **Tony Robbins** (state Triad, raise your standards, priming).
 - 2026-07-02 — **Visual identity DECIDED: "Blueprint × Concrete"** — technical dark base + heavy
   condensed type + dual accent (blue `#3B82F6` = science, orange `#FF4A1C` = push). Logo = the
   replay/loop mark (↻). Built the **`run-it-back-brand` skill** + rendered board & 3 sample posts

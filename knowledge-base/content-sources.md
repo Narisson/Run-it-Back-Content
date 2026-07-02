@@ -85,6 +85,71 @@ Approaching **friction points** in practice with **relaxed awareness** can *rewi
 - **"Friction with relaxed awareness"** as a teachable mental-strength tool — face hard things without letting stress/fear drive.
 - **Play as a discipline strategy** — makes the health proof-ground inviting, not militaristic.
 
+## 4. Alex Hormozi
+**Who:** entrepreneur (Acquisition.com; *$100M Offers* / *$100M Leads*); dominant short-form voice.
+**Maps to:** the **wealth** proof-ground + work-ethic/discipline. "Discipline as engine, wealth as scoreboard."
+
+**Core ideas**
+- **Discipline > motivation** — motivation is weather; discipline is constant. The work gets done regardless of feeling.
+- **Volume negates luck / consistency beats talent** — most people fail from lack of *volume*, not strategy.
+- **The Rule of 100** — 100 primary actions/day for 100 days (100 outreaches, or 100 min of content, or $100/day ads). A concrete, brand-friendly volume prescription.
+- **Delayed gratification = the #1 success trait** — acting without immediately seeing the result.
+- **"Start when it's hard"** (verified X post) — if you can do it when it's hard, you can do it under any conditions.
+- **Standards, not audiences** — your real standard is what you do unobserved. *(verbatim unverified)*
+- **Get better, not rich** — money is a lagging indicator of compounding skill.
+
+**Format to borrow:** hook→retain→reward (win the first ~3s); one idea per piece; named/numbered frameworks (screenshot-able); extreme volume + repurpose one long asset into a month of shorts.
+
+**What Run it Back takes:**
+- "Motivation is weather. Discipline is gravity."
+- "You don't have a strategy problem. You have a volume problem." (Rule of 100, reframed for any goal)
+- "Your real standard is what you do when nobody's filming."
+- "Stop trying to get rich. Get better. The money's just the scoreboard." (wealth proof-ground)
+
+## 5. Chris Williamson (Modern Wisdom / @chriswillx)
+**Who:** host of *Modern Wisdom*; former nightclub promoter → top self-improvement podcaster. Near-perfect fit for the **male-discipline core.**
+**Maps to:** the whole spine (discipline, mental strength, resilience/reinvention).
+
+**Core ideas**
+- **The friction triad — discipline vs. motivation vs. obsession.** Discipline = "I'll make myself" (friction accepted); motivation = "I want to" (friction reduced); obsession = "I can't not" (friction inverted — it pulls you). *Signature framework.*
+- **Discipline is the residue of obsession** — today's routine is the echo of a past obsession.
+- **Discipline is reliable because it's in your control** — talent/motivation aren't chosen; showing up is. And consistency *builds* the talent and motivation anyway.
+- **Productivity dysmorphia** — can't see your own success (burnout + imposter + anxiety). *(term coined by Anna Codrea-Rado; he popularizes it.)*
+- **The insecure overachiever** — winning while feeling like you're losing; the goal always outstrips current ability.
+- **Your flaws are strengths turned up too high** — sharp edges are the byproduct of something useful.
+- **Self-improvement is a tool, not a virtue** — "distributes like alcohol, not medicine"; discernment > endless discovery.
+
+**Format to borrow:** the **"N lessons from [year/episodes]" compilation** (hugely repurposable to short-form); short quotable newsletter nuggets ("3 Minute Monday"); expert-distillation into clean one-liners; honest "I haven't figured it out either" tone.
+
+**What Run it Back takes:**
+- "Motivation gets you started. Discipline keeps score. Obsession runs it back for you." (the triad as a series)
+- "You can't choose your talent. You can choose to show up."
+- "Productivity dysmorphia: why you can't see your own wins."
+- **Reinvention arc:** promoter → *Love Island* → world's biggest wisdom podcast — literal proof you can run your whole identity back.
+
+## 6. Tony Robbins
+**Who:** the OG peak-performance coach (*Awaken the Giant Within*, *Unlimited Power*, *Money: Master the Game*; UPW events).
+**Maps to:** **mental strength / emotional mastery / resilience**, with a wealth-psychology angle.
+
+**Core ideas**
+- **State management via the Triad** — change your state fast through **physiology** (posture/breath/movement), **focus**, and **language**. Physiology is the fastest lever.
+- **"The quality of your life is the quality of your emotions."** *(verified)*
+- **Pain vs. pleasure is the master driver** — we do more to avoid pain than gain pleasure; use it deliberately.
+- **Decisions shape destiny** — it's what you do *consistently*, not once in a while.
+- **Raise your standards** — high achievers run on raised standards/"hunger," not mere self-control.
+- **Massive action** — insight without execution is inert.
+- **The Six Human Needs** (certainty, variety, significance, connection, growth, contribution) drive all behavior.
+- **Priming** — a ~10-min morning ritual (breath, gratitude, visualization) to set your state before the day sets it.
+- **Wealth is ~80% psychology, 20% mechanics.** *(his rule-of-thumb, not precise data)*
+
+**Format to borrow (adapt from long-form):** power questions as hooks; body-first demonstration (show the posture/breath change on camera); dense quotable maxims for text overlays.
+
+**What Run it Back takes:**
+- "You don't have a motivation problem — you have a physiology problem. Change your body, change your state." (Triad)
+- "Discipline isn't self-control — it's raised standards." 
+- "Prime the day before it primes you — 10 minutes that decide the other 23." (ties to our "win the first hour")
+- "Wealth is 80% mindset. Fix the operator before the strategy." (wealth proof-ground)
+
 ---
 
 ## Synthesis — the drive behind Run it Back
@@ -120,6 +185,9 @@ Run it Back out of the tired grindset lane and makes it inviting *and* demanding
 - "**Willpower runs out. Discipline is a practice.**" — the discipline-vs-willpower reframe (Ido Portal)
 - "**Meet friction with relaxed awareness**" — retraining your stress/fear response instead of forcing through it
 - **Play as discipline** — the anti-grindset angle: movement/practice you actually return to
+- **"Motivation is weather. Discipline is gravity."** / "you have a volume problem, not a strategy problem" (Hormozi)
+- **"Discipline is the residue of obsession"** / the motivation→discipline→obsession friction triad (Williamson)
+- **"Change your body, change your state"** — physiology as the fastest lever (Tony Robbins)
 
 ## Sources
 - [Huberman: Controlling Your Dopamine for Motivation, Focus & Satisfaction](https://www.hubermanlab.com/episode/controlling-your-dopamine-for-motivation-focus-and-satisfaction)
