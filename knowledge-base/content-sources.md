@@ -34,6 +34,10 @@ The **anterior mid-cingulate cortex (aMCC)** is the brain's tenacity/willpower h
 - **Format:** give *tools/protocols*, not just quotes — actionable steps build trust that converts to product/affiliate.
 - **Health proof-ground** grounded in real science → credibility for supplement/app affiliate later.
 
+> **Deep dive:** a full sweep of Huberman's work — motivation/dopamine, willpower/habits,
+> focus, stress/fear, foundations — with science, protocols, and ready-to-use content
+> angles lives in **`huberman-knowledge.md`**. That's the raw material bank for discipline/health content.
+
 ## 2. The Diary of a CEO — Steven Bartlett
 **Who:** entrepreneur/investor; long-form interview podcast, top-5 globally.
 **Maps to:** the **resilience + mental strength + wealth** proof-ground.

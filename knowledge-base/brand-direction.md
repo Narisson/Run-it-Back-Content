@@ -95,3 +95,6 @@ because it owns the audience and products. Ownership — not size — is the lev
 - 2026-07-02 — Added Ido Portal (Huberman ep). Adopted the **discipline-vs-willpower**
   distinction and an **anti-grindset voice nuance**: discipline as sustainable practice, not
   punishment; "friction with relaxed awareness" as a mental-strength tool.
+- 2026-07-02 — Built **`huberman-knowledge.md`**: full sweep of Huberman's work (5 clusters)
+  via parallel research → science + protocols + ~40 content angles. The discipline/health
+  content material bank. 7 "signature angles" flagged for flagship content.
