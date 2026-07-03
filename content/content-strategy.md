@@ -37,6 +37,8 @@ being the opposite on three axes:
 **Verbal signature / sign-off:** end pieces with **"Run it back."** — a repeatable tag that
 doubles as the CTA and trains brand recall.
 
+5. **Humour / entertainment** — the niche is humorless; being *funny about the struggle* (self-aware, anti-grindset, never punching down) wins attention AND differentiates. **Entertain → then make it stick.** See `humour-and-entertainment.md`.
+
 ## The content formula (every post)
 > **Practical advice → the tool that makes it stick.**
 

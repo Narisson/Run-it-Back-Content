@@ -81,4 +81,6 @@ system he can resume without shame, the persistence to try again, and the truth 
 
 ## Voice
 Honest, non-shaming, "I've been in the loop too." Smart, not preachy. Direct. Demanding *and*
-inviting. Ends on the signature: **"↻ run it back."**
+inviting. **Funny about the struggle, allergic to grindset cringe** — *makes you laugh, then
+makes you actually do the thing* (see `humour-and-entertainment.md`). Ends on the signature:
+**"↻ run it back."**

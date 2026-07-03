@@ -151,6 +151,10 @@ resumable **discipline/reset challenge** with "never miss twice" built in.
   The comeback applies to *any* goal (body, focus, money, business); wealth proof-ground now includes
   entrepreneurial persistence + income experiments + build-in-public. Strengthens the wealth side, the
   Hormozi/Bartlett angle, and opens business-content + own-product territory. Updated `what-is-run-it-back.md`.
+- 2026-07-02 — **Added humour/entertainment as a differentiation + attention layer** (`content/humour-and-entertainment.md`).
+  The niche is humorless → being funny about the struggle stands out AND reinforces anti-grindset. Principle:
+  **entertain → then make it stick** (plugs into the content formula). Styles: relatable/self-deprecating,
+  niche satire, POV skits/characters ("Evening You", dopamine goblin), deadpan Gear roasts. Updated the voice.
 - 2026-07-02 — **Visual identity DECIDED: "Blueprint × Concrete"** — technical dark base + heavy
   condensed type + dual accent (blue `#3B82F6` = science, orange `#FF4A1C` = push). Logo = the
   replay/loop mark (↻). Built the **`run-it-back-brand` skill** + rendered board & 3 sample posts
