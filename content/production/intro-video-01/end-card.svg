@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <radialGradient id="g" cx="0.5" cy="0.38" r="0.55">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.18"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="#0A0E14"/>
+  <circle cx="540" cy="760" r="540" fill="url(#g)"/>
+  <!-- big loop mark -->
+  <g transform="translate(540,740)">
+    <path d="M 0 -170 A 170 170 0 1 0 120 -120" fill="none" stroke="#3B82F6" stroke-width="34" stroke-linecap="round"/>
+    <path d="M -50 -222 L 28 -170 L -52 -118 Z" fill="#FF4A1C"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="540" y="1150" font-size="52" fill="#8A9AAC">Whatever happened yesterday —</text>
+    <g font-family="Impact, Haettenschweiler, 'Arial Narrow', sans-serif" letter-spacing="2">
+      <text x="540" y="1320" font-size="170" fill="#F4F7FB">RUN IT</text>
+      <text x="540" y="1490" font-size="170" fill="#FF4A1C">BACK.</text>
+    </g>
+    <text x="540" y="1650" font-family="'Courier New',monospace" font-size="34" letter-spacing="4" fill="#8A9AAC">@runitback_club</text>
+  </g>
+</svg>
