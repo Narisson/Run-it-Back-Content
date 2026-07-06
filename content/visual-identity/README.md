@@ -20,3 +20,12 @@ bundle once a direction is chosen); boards use safe fallbacks so they render any
 
 Once a direction is picked, it becomes the `run-it-back-brand` skill (rewritten from the
 parked `brand-guidelines` skeleton) so every future asset is auto-consistent.
+
+## Logo redesign — nano-banana renders (2026-07-06)
+4 concepts × 2 variants, 1:1, in the Higgsfield gallery. Job IDs:
+- A Rewind/Play: `835828c5` / `51fa9824`
+- B R-Return monogram: `9813f820` / `579de96d`
+- C The Dial: `c8c3ffa9` / `fe3caa85`
+- D Comeback Line: `a8c85e2c` / `5d2b3386`
+SVG concept boards: `logo-option-*.svg/.png`. On selection: rebuild winner as clean vector,
+make avatar/watermark crops, propagate to end cards + `run-it-back-brand` skill.
