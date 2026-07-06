@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#0A0E14"/>
+  <g transform="translate(540,460) skewX(-8) translate(-540,-460)">
+    <!-- one continuous stroke: top bar -> left leg -> vertex -> rise (clean miters) -->
+    <path d="M 628 316 L 355 316 L 540 655 L 665 175"
+          fill="none" stroke="#FF4A1C" stroke-width="60" stroke-linejoin="miter" stroke-linecap="butt"/>
+    <!-- crossbar: butts into the rising stroke -->
+    <path d="M 430 452 L 595 452" fill="none" stroke="#FF4A1C" stroke-width="52" stroke-linecap="butt"/>
+    <!-- white escape arrowhead continuing the rise -->
+    <polygon points="612,150 758,40 722,235" fill="#F4F7FB"/>
+    <!-- dashed baseline (below the vertex, clear gap) -->
+    <g stroke="#5B6672" stroke-width="13" stroke-linecap="round">
+      <line x1="400" y1="755" x2="427" y2="755"/>
+      <line x1="473" y1="755" x2="605" y2="755"/>
+      <line x1="650" y1="755" x2="677" y2="755"/>
+    </g>
+  </g>
+  <text x="540" y="905" text-anchor="middle" font-family="'DejaVu Sans', Arial, sans-serif" font-weight="900" font-size="96" letter-spacing="4" fill="#F4F7FB">RUN IT BACK</text>
+</svg>

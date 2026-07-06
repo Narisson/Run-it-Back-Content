@@ -39,12 +39,17 @@ lots of negative space; the type does the work.
 
 Headlines are big and multi-line; break lines for punch, not grammar. One idea per frame.
 
-## Logo
+## Logo (v1 — ADOPTED 2026-07-06)
 
-- **The mark IS the name:** a **replay / loop arrow (↻)** — "run it back."
-- Construction: a ~300° circular arc (blue `#3B82F6`, round caps) with a triangular
-  **arrowhead in Blaze `#FF4A1C`** at the head. Wordmark **RUN IT BACK** in condensed display.
-- Lockups: horizontal (mark + wordmark) for headers; mark-only for avatars/watermarks.
+- **The mark = the comeback monogram:** an angular Blaze-orange stroke that runs a top bar,
+  falls to a sharp vertex, then rises past its start into a **white escape arrowhead**; a
+  crossbar butts into the rise (abstract R read); a short **dashed gray baseline** ("rock
+  bottom") sits beneath. Slight italic lean (skewX −8°).
+- Master vector: `content/visual-identity/logo-final/rib-logo-lockup.svg` (lockup) and
+  `rib-logo-mark.svg` (mark-only, avatar-safe). Colors: stroke `#FF4A1C`, arrowhead `#F4F7FB`,
+  baseline `#5B6672`, on Ink `#0A0E14`.
+- Lockups: stacked (mark over wordmark) for hero/cards; mark-only for avatars/watermarks; the
+  old ↻ loop glyph remains ONLY inside the text sign-off "↻ run it back." (typographic, not the logo).
 - Sign-off (every piece): **`↻ run it back.`** — small, bottom-left, Steel text with the
   loop glyph in the post's active accent. This is the verbal + visual signature and CTA.
 
