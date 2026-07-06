@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1080" height="1350" fill="#0A0E14"/>
+  <g stroke="#131D28" stroke-width="1"><line x1="0" y1="450" x2="1080" y2="450"/><line x1="0" y1="1012" x2="1080" y2="1012"/><line x1="540" y1="0" x2="540" y2="1350"/></g>
+  <text x="80" y="110" font-family="'Courier New',monospace" font-size="22" letter-spacing="5" fill="#3B82F6">LOGO OPTION C — "THE DIAL" (instrument loop)</text>
+  <text x="80" y="150" font-size="24" fill="#8A9AAC">The loop, rebuilt as a precision instrument — a rev counter mid-restart, not a refresh icon.</text>
+
+  <!-- big mark: squared-cap arc dial with chevron head + ticks -->
+  <g transform="translate(540,650)">
+    <!-- tick ring -->
+    <g stroke="#233240" stroke-width="8">
+      <line x1="0" y1="-238" x2="0" y2="-208"/>
+      <line x1="168" y1="-168" x2="147" y2="-147"/>
+      <line x1="-168" y1="-168" x2="-147" y2="-147"/>
+      <line x1="-238" y1="0" x2="-208" y2="0"/>
+      <line x1="-168" y1="168" x2="-147" y2="147"/>
+      <line x1="0" y1="238" x2="0" y2="208"/>
+    </g>
+    <!-- main arc: from 90° sweeping ~300° clockwise, squared caps -->
+    <path d="M 0 -170 A 170 170 0 1 0 147 -85" fill="none" stroke="#3B82F6" stroke-width="52" stroke-linecap="butt"/>
+    <!-- chevron arrowhead at open end, pointing onward -->
+    <polygon points="128,-160 218,-108 128,-40" fill="#FF4A1C"/>
+    <!-- center dot -->
+    <circle cx="0" cy="0" r="16" fill="#F4F7FB"/>
+  </g>
+
+  <!-- avatar tests -->
+  <text x="80" y="1060" font-family="'Courier New',monospace" font-size="20" letter-spacing="4" fill="#5B7185">AVATAR TEST</text>
+  <g transform="translate(110,1150)">
+    <circle cx="0" cy="0" r="80" fill="#131C26"/>
+    <g transform="scale(0.30)"><path d="M 0 -170 A 170 170 0 1 0 147 -85" fill="none" stroke="#3B82F6" stroke-width="52"/><polygon points="128,-160 218,-108 128,-40" fill="#FF4A1C"/><circle r="16" fill="#F4F7FB"/></g>
+    <circle cx="220" cy="0" r="46" fill="#131C26"/>
+    <g transform="translate(220,0) scale(0.17)"><path d="M 0 -170 A 170 170 0 1 0 147 -85" fill="none" stroke="#3B82F6" stroke-width="52"/><polygon points="128,-160 218,-108 128,-40" fill="#FF4A1C"/><circle r="16" fill="#F4F7FB"/></g>
+    <circle cx="360" cy="0" r="26" fill="#131C26"/>
+    <g transform="translate(360,0) scale(0.095)"><path d="M 0 -170 A 170 170 0 1 0 147 -85" fill="none" stroke="#3B82F6" stroke-width="52"/><polygon points="128,-160 218,-108 128,-40" fill="#FF4A1C"/><circle r="16" fill="#F4F7FB"/></g>
+  </g>
+
+  <!-- lockup -->
+  <g transform="translate(560,1150)">
+    <g transform="scale(0.14)"><path d="M 0 -170 A 170 170 0 1 0 147 -85" fill="none" stroke="#3B82F6" stroke-width="52"/><polygon points="128,-160 218,-108 128,-40" fill="#FF4A1C"/><circle r="16" fill="#F4F7FB"/></g>
+    <text x="60" y="16" font-family="Impact,'Arial Narrow',sans-serif" font-size="52" letter-spacing="2" fill="#F4F7FB">RUN IT BACK</text>
+  </g>
+  <text x="80" y="1310" font-size="20" fill="#5B7185">Why: keeps the loop equity but reads as instrument/gauge (maker + measure) · squared caps kill the "refresh button" feel</text>
+</svg>

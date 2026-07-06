@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1080" height="1350" fill="#0A0E14"/>
+  <g stroke="#131D28" stroke-width="1"><line x1="0" y1="450" x2="1080" y2="450"/><line x1="0" y1="1012" x2="1080" y2="1012"/><line x1="540" y1="0" x2="540" y2="1350"/></g>
+  <text x="80" y="110" font-family="'Courier New',monospace" font-size="22" letter-spacing="5" fill="#3B82F6">LOGO OPTION B — "R-RETURN" MONOGRAM</text>
+  <text x="80" y="150" font-size="24" fill="#8A9AAC">A heavy R whose leg kicks BACK — the letter itself runs it back.</text>
+
+  <!-- big mark: R with return-arrow leg -->
+  <g transform="translate(540,660)">
+    <text x="-10" y="120" text-anchor="middle" font-family="Impact, Haettenschweiler, 'Arial Narrow', sans-serif" font-size="440" fill="#F4F7FB">R</text>
+    <!-- return arrow: from R's leg sweeping left under the letter -->
+    <path d="M 95 150 L 30 240 Q -10 295 -75 295 L -190 295" fill="none" stroke="#FF4A1C" stroke-width="44" stroke-linecap="butt"/>
+    <polygon points="-190,240 -190,350 -290,295" fill="#FF4A1C"/>
+  </g>
+
+  <!-- avatar tests -->
+  <text x="80" y="1060" font-family="'Courier New',monospace" font-size="20" letter-spacing="4" fill="#5B7185">AVATAR TEST</text>
+  <g transform="translate(110,1150)">
+    <circle cx="0" cy="0" r="80" fill="#131C26"/>
+    <g transform="translate(2,-38) scale(0.26)"><text x="-10" y="120" text-anchor="middle" font-family="Impact,'Arial Narrow',sans-serif" font-size="440" fill="#F4F7FB">R</text><path d="M 95 150 L 30 240 Q -10 295 -75 295 L -190 295" fill="none" stroke="#FF4A1C" stroke-width="44"/><polygon points="-190,240 -190,350 -290,295" fill="#FF4A1C"/></g>
+    <circle cx="220" cy="0" r="46" fill="#131C26"/>
+    <g transform="translate(221,-22) scale(0.15)"><text x="-10" y="120" text-anchor="middle" font-family="Impact,'Arial Narrow',sans-serif" font-size="440" fill="#F4F7FB">R</text><path d="M 95 150 L 30 240 Q -10 295 -75 295 L -190 295" fill="none" stroke="#FF4A1C" stroke-width="44"/><polygon points="-190,240 -190,350 -290,295" fill="#FF4A1C"/></g>
+    <circle cx="360" cy="0" r="26" fill="#131C26"/>
+    <g transform="translate(361,-12) scale(0.085)"><text x="-10" y="120" text-anchor="middle" font-family="Impact,'Arial Narrow',sans-serif" font-size="440" fill="#F4F7FB">R</text><path d="M 95 150 L 30 240 Q -10 295 -75 295 L -190 295" fill="none" stroke="#FF4A1C" stroke-width="44"/><polygon points="-190,240 -190,350 -290,295" fill="#FF4A1C"/></g>
+  </g>
+
+  <!-- lockup -->
+  <g transform="translate(560,1150)">
+    <g transform="translate(20,-8) scale(0.12)"><text x="-10" y="120" text-anchor="middle" font-family="Impact,'Arial Narrow',sans-serif" font-size="440" fill="#F4F7FB">R</text><path d="M 95 150 L 30 240 Q -10 295 -75 295 L -190 295" fill="none" stroke="#FF4A1C" stroke-width="44"/><polygon points="-190,240 -190,350 -290,295" fill="#FF4A1C"/></g>
+    <text x="90" y="16" font-family="Impact,'Arial Narrow',sans-serif" font-size="52" letter-spacing="2" fill="#F4F7FB">RUN IT BACK</text>
+  </g>
+  <text x="80" y="1310" font-size="20" fill="#5B7185">Why: a true monogram (most ownable class of mark) · the back-kick leg IS the brand story</text>
+</svg>
