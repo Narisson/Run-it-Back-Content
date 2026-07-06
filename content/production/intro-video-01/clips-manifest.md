@@ -3,12 +3,20 @@
 Kling 3.0 via Higgsfield, 9:16. Draft to evaluate the direction (persona unregistered — decision
 pending until the video is seen). ~42.5 credits total.
 
-## Clips
+## Clips (✅ all completed 2026-07-06)
 | Clip | Job ID | Spec | Content |
 |---|---|---|---|
-| **A — Hook** | `6abfd0af-110c-4c88-9321-7f54b5c58c15` | 5s · pro · audio ON · start=face-v2 | Persona deadpan to camera, speaks: "This is my fourteenth Day One." |
-| **B — Turn + science** | `5e39ec00-5549-40d3-82d0-e60c0851d171` | 10s · std · silent | Lamp clicks on in dark → hand flips crossed-out DAY 1 pages → sketches + circles brain |
-| **C — Gadget + rule** | `47ace633-9956-4543-8622-737488891333` | 10s · std · silent | Push-in on gadget → hand inspects it like a designer → notebook grid ✓ ✓ ✗ …✓ |
+| **A — PROBLEM** | `6abfd0af-110c-4c88-9321-7f54b5c58c15` | 5s · 1080×1920 · pro · audio ON · start=face-v2 | Persona deadpan to camera, speaks: "This is my fourteenth Day One." |
+| **B — AGITATE** | `5e39ec00-5549-40d3-82d0-e60c0851d171` | 10s · 720×1280 · std · silent | Lamp clicks on in dark → hand flips crossed-out DAY 1 pages → sketches + circles brain |
+| **C — SOLUTION** | `47ace633-9956-4543-8622-737488891333` | 10s · 720×1280 · std · silent | Push-in on gadget → hand inspects it like a designer → notebook grid ✓ ✓ ✗ …✓ |
+
+Downloads (also in the Higgsfield gallery):
+- A: https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260706_040501_6abfd0af-110c-4c88-9321-7f54b5c58c15.mp4
+- B: https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260706_040529_5e39ec00-5549-40d3-82d0-e60c0851d171.mp4
+- C: https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260706_040551_47ace633-9956-4543-8622-737488891333.mp4
+
+Note: B and C rendered at 720×1280 (std mode) vs A at 1080×1920 (pro) — fine for a draft; regenerate
+B/C in pro (or run `upscale_video`) for the final if the direction is approved.
 
 ## Assembly (CapCut, ~28s) — PROBLEM → SOLUTION structure (v2 script)
 Per the standing rule: open on the ICP's negative experience, deliver the solution, brand = 3s byline.
