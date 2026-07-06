@@ -40,12 +40,15 @@ doubles as the CTA and trains brand recall.
 5. **Humour / entertainment** — the niche is humorless; being *funny about the struggle* (self-aware, anti-grindset, never punching down) wins attention AND differentiates. **Entertain → then make it stick.** See `humour-and-entertainment.md`.
 
 ## The content formula (every post)
-> **Practical advice → the tool that makes it stick.**
+> **Problem → solution → the tool that makes it stick.**
 
-Actionable, not just inspirational. Each piece gives a do-it-today takeaway (system/rep/reframe),
-and — when it fits — points to the tool (physical or digital) that makes following through easier.
-This couples value + tools into one honest move (only recommend what enables the advice) and is
-the trust-safe affiliate integration. Not every post sells; every post *helps*.
+**Every video opens on a problem or negative experience the ideal viewer is living** (the restart
+loop, fried focus, the 9pm collapse, the flopped side hustle) — hook them with their own pain,
+named in their own words. Then **deliver the actual solution** (a system/rep/reframe taught
+properly, not name-dropped), and — when it fits — the tool (physical or digital) that makes
+following through easier. The brand is the *byline*, never the body: identity gets ~3 seconds at
+the end, value gets the rest. Not every post sells; every post *solves*. Humour, when used, is the
+wrapper on the problem beat (entertain → problem → solution → tool).
 
 ## Content pillars (spine → proof-grounds)
 Rough target mix per week:

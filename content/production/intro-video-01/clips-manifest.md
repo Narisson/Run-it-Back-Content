@@ -10,14 +10,15 @@ pending until the video is seen). ~42.5 credits total.
 | **B — Turn + science** | `5e39ec00-5549-40d3-82d0-e60c0851d171` | 10s · std · silent | Lamp clicks on in dark → hand flips crossed-out DAY 1 pages → sketches + circles brain |
 | **C — Gadget + rule** | `47ace633-9956-4543-8622-737488891333` | 10s · std · silent | Push-in on gadget → hand inspects it like a designer → notebook grid ✓ ✓ ✗ …✓ |
 
-## Assembly (CapCut, ~26s)
-1. **Clip A** (0–5s) — keep its native audio (the spoken hook).
-2. **Clip B** (5–15s) — VO over it: "Here's what nobody tells you: falling off isn't the story. This is Run it Back. The science of why you quit…"
-3. **Clip C** (15–25s) — VO: "…systems you can restart without shame, and honest tests of the gear that promises to fix you. You're allowed to miss. Never miss twice."
-4. **End card** (`end-card.png`, 25–27s) — VO: "Whatever happened yesterday — run it back."
-5. Captions burned in throughout (Bone; rule line in Blaze orange). Music: none under A; low pulse from B onward.
+## Assembly (CapCut, ~28s) — PROBLEM → SOLUTION structure (v2 script)
+Per the standing rule: open on the ICP's negative experience, deliver the solution, brand = 3s byline.
+1. **Clip A · PROBLEM** (0–5s) — native audio: *"This is my fourteenth Day One."*
+2. **Clip B · AGITATE** (5–15s) — VO: *"New app. New plan. Same Tuesday. Here's the problem nobody names: you don't lack discipline — the restart from zero is what's breaking you."* Caption over the brain-sketch moment: *"(your brain literally grows every time you come back — real science)"*
+3. **Clip C · SOLUTION** (15–25s) — VO: *"So stop counting Day Ones. One rule: **never miss twice.** Missing once is human — it's data. Missing twice is a new habit forming. Your only job after a bad day: show up tomorrow. That's it."* (the ✓ ✓ ✗ …✓ pen stroke IS this rule visualized)
+4. **End card · IDENTITY** (25–28s) — VO: *"That's what we do here. Run it back."*
+5. Captions burned in throughout (Bone; the rule in Blaze orange; science aside in Signal blue). Music: none under A; low pulse from B onward.
 
-VO for beats B–D: record in the founder's voice (preferred) or reuse the AI VO pipeline for the draft.
+VO for beats 2–4: founder's voice (preferred) or AI VO for the draft.
 
 ## Notes
 - Preset upsell ("IN THE DARK") declined on B & C — storyboard specificity > generic preset.

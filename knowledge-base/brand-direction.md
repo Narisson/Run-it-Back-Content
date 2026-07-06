@@ -151,6 +151,10 @@ resumable **discipline/reset challenge** with "never miss twice" built in.
   The comeback applies to *any* goal (body, focus, money, business); wealth proof-ground now includes
   entrepreneurial persistence + income experiments + build-in-public. Strengthens the wealth side, the
   Hormozi/Bartlett angle, and opens business-content + own-product territory. Updated `what-is-run-it-back.md`.
+- 2026-07-04 — **Sharpened the formula to PROBLEM-FIRST: problem → solution → tool.** Every video
+  opens on a negative experience the ICP is living, then delivers the actual solution (taught, not
+  name-dropped); brand identity = ~3s byline at the end. Intro video re-scripted to this arc
+  (problem: 14th Day One → agitate: restart-from-zero → solution: never miss twice → byline).
 - 2026-07-02 — **Added humour/entertainment as a differentiation + attention layer** (`content/humour-and-entertainment.md`).
   The niche is humorless → being funny about the struggle stands out AND reinforces anti-grindset. Principle:
   **entertain → then make it stick** (plugs into the content formula). Styles: relatable/self-deprecating,
