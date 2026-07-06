@@ -9,15 +9,18 @@ The single runbook for growing the brand. Synthesizes the knowledge base (viral-
 audience-personas, growth research) + the five installed marketing skills. Companion gates and
 money phases live in `MASTER-PLAN.md`. **Growth phase rule: value first, no selling, email from day one.**
 
-## 0. North star & flywheel
-North star (growth phase): **retention + sends + email signups** — never followers or likes.
-Flywheel: `Hook (problem) → Watch-through → Send/Save → Follow → Email → (later) Buy`
-Every decision should strengthen a link in that chain; if it doesn't, skip it.
+## 0. North star & flywheel — COMMUNITY FIRST
+North star (growth phase): **community** — retention + sends + email signups + UGC/replies —
+never followers or likes. The audience: aspirational people who want to do better and feel
+inspired doing it (voice stays dry/honest; door wide).
+Flywheel: `Hook (problem) → Watch-through → Send/Save → Follow → Free file (email) → Print & post (UGC) → Belong → (later) Buy`
+The Reminder drops power the strongest links: free wall-art file (email-gated) → community
+prints → featured UGC → belonging. Every decision should strengthen a link; if it doesn't, skip it.
 
 ## 1. The content system (what we post)
 - **Formula (every post):** PROBLEM the ICP is living → agitate → SOLUTION taught → tool that makes it stick → 3s brand byline. Humour is the wrapper on the problem beat.
 - **One video = one idea. One clip = one shot = one action. No text rendered inside AI video.**
-- **Series (franchises), not one-offs:** Comeback Cut · Discipline Lab · Never Miss Twice · Today's Rep · The Gear · Proof. Rotate; let data kill/promote.
+- **Series (franchises), not one-offs:** Comeback Cut · Discipline Lab · Never Miss Twice · Today's Rep · The Gear · Proof · **The Reminder** (wall-art drop: 1 per 1–2 wks, multi-post arc, free email-gated file). Rotate; let data kill/promote.
 - **Voice:** funny about the struggle, allergic to grindset cringe; non-shaming; "I've been in the loop too." Sign-off every piece: **"↻ run it back."**
 - **Hook bank** (proven patterns — see `knowledge-base/viral-patterns.md`): comeback low ("I haven't been consistent…"), identity callout, POV relatability, contrarian ("Motivation is a scam"), listicle curiosity ("7 signs…"), hard-truth accountability, problem-callout ("You're not lazy, you're overstimulated").
 - Visual identity: `run-it-back-brand` skill. Persona/semi-faceless: hands + voice; AI persona pending founder verdict.
@@ -51,7 +54,7 @@ Cross-post everything, re-exported clean (no watermarks), caption per platform.
 10. Collabs once ≥5k: duet/collab with same-size accounts in adjacent lanes (fitness, productivity, money).
 
 ## 5. Own the audience (from day one)
-- **Lead magnet:** "The Reset Protocol" (never-miss-twice system + 7-day resumable reset). Build with the `lead-magnets` skill. Link in every bio; CTA in captions once live.
+- **Lead magnet = the free printable file** (The Reminder drops, email-gated): "want the file? it's free — link in bio." Stronger than any PDF: real utility, physical result, UGC built in. ("Reset Protocol" PDF = optional secondary magnet.) Build the delivery flow with the `lead-magnets` skill.
 - Email cadence once ≥100 subs: 1 valuable email/week (a rule taught + one honest tool note). No selling until MASTER-PLAN Phase 3.
 - Community moves (per `community-marketing`): name the audience early ("the comeback club"), feature follower comebacks (UGC flywheel), weekly question ritual.
 

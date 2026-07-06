@@ -100,6 +100,24 @@ resumable **discipline/reset challenge** with "never miss twice" built in.
 - **Health-led monetization** — need pages in that lane to see how the proof-grounds monetize (supplement/program/coaching models).
 - **Product ladder & price points** for this niche.
 
+## Brand architecture (DECIDED 2026-07-06): one brand, objects folded in
+Evaluated separate-brands vs master/sub-brands vs merge for the digital-wellbeing/3D-objects
+idea → **merged into Run it Back** (full reasoning in session log). The objects are the product
+expression of the same mission — physical reminders = "systems over willpower" made tangible.
+- **Goal reframe: COMMUNITY FIRST.** Growth phase optimizes for a community of aspirational
+  people who want to feel inspired and do better — belonging + UGC before any selling.
+- **"The Reminder" series:** 3D-printable **wall art** drops — each piece embodies a brand rule
+  (Never Miss Twice, the comeback line, ↻). **Free printable file with every drop, email-gated**
+  → the file replaces the Reset-Protocol PDF as lead magnet. Printed/premium versions purchasable
+  later (print-on-demand first; no logistics build-out in month one).
+- **Cadence reality:** 1 drop per 1–2 weeks (a print-ready design is 5–10× a post's effort);
+  each drop is a multi-post arc: design story → the rule it embodies → community prints (UGC).
+- **Audience evolution:** beachhead widens from "male-discipline core" to **"anyone rebuilding
+  their focus/aspirations"** — voice stays dry/honest/male-led; the door opens to the crossover
+  audience. (Supersedes the narrower centering decision.)
+- **Architecture:** one name, one account per platform, one site (/objects /gear /club). If
+  Objects outgrows the media brand, it graduates to a sub-brand — Option 2 as an *earned* future.
+
 ## Decisions log
 - 2026-07-01 — Adopted "ownership over size" as the guiding principle; drafted the
   email-first funnel order.

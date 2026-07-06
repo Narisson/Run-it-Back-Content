@@ -14,7 +14,7 @@ iterate format, don't quit. Never miss two weeks.
 | Month | Theme | INPUT milestones (non-negotiable) | Followers base → stretch | Money |
 |---|---|---|---|---|
 | **1** | SHIP & signal | 20–25 posts live · bios + link hub up · lead magnet drafted · face/semi test run · all comments replied | 500–2k → 5k | $0 (by design) |
-| **2** | Find the formula | 45–50 total posts · weekly reviews done ×4 · 2–3 formats identified · lead magnet LIVE · first 100 emails · first reply-videos | 2–5k → 15k | $0 |
+| **2** | Find the formula | 45–50 total posts · weekly reviews done ×4 · 2–3 formats identified · **Reminder drop #1 live (free file, email-gated)** · first 100 emails · first reply-videos | 2–5k → 15k | $0 |
 | **3** | Double down | 70–80 total · 70% of output = proven formats · 10 strategic comments/day habit · Amazon Associates live · first build-in-public monthly recap | 5–15k → 40k | first trickle (<$100/mo) |
 | **4** | Scale the winner | 100–110 total · batch system ≤4h for 6 posts · 300+ emails · first collab/duet · TikTok Shop if ≥5k | 15–40k → 80k | $50–200/mo affiliate |
 | **5** | Widen the funnel | 130–140 total · YouTube long-form #1–2 · 2–3 collabs · SEO blog post #1–2 · gear reviews carrying links (FTC-clean) | 30–80k → 140k | $100–500/mo |
@@ -35,7 +35,7 @@ post 1 piece → reply to every comment (first hour esp.) → 10 strategic comme
 | **Wed** (2–3h) | 40m core + | **Visuals:** generate/collect B-roll (Higgsfield/vidiQ/phone) for the batch · brand cards as needed |
 | **Thu** (2–3h) | 40m core + | **Edit I:** cut 2–3 videos (CapCut: cuts on beat, captions, sign-off card) |
 | **Fri** (2–3h) | 40m core + | **Edit II + social:** finish 1–2 edits · build-in-public X thread · schedule weekend posts |
-| **Sat** (3–4h) | — | **PRODUCTION BLOCK:** shoot everything at the desk set (VO recording batch, hands/props shots, face tests) — a full week of raw material in one session |
+| **Sat** (3–4h) | — | **PRODUCTION BLOCK:** shoot everything at the desk set (VO recording batch, hands/props shots, face tests) — a full week of raw material in one session. **Alternate weeks: ~2h = design/CAD the next Reminder wall-art drop** (this IS content — film the process) |
 | **Sun** (2–3h) | 40m core + | **Assemble & load:** final edits · queue Mon–Wed posts · 15m week plan · CLOSE THE LAPTOP |
 
 Weekly output: **6–7 posts** (each cross-posted TikTok/Reels/Shorts + 3–5 X posts).

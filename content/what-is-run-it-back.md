@@ -60,7 +60,15 @@ behind. He's chasing goals and wins — a better body, sharper focus, **and mone
 that works** — and he's failed at some of them before. He doesn't need another quote; he needs a
 system he can resume without shame, the persistence to try again, and the truth about what actually helps.
 
-## What we make (the 6 series)
+## Community first
+The near-term goal is not sales — it's **a community of people with aspirations who want to do
+better and feel inspired doing it.** Every mechanic serves belonging: free files, replies,
+featuring member comebacks and prints, the Club. Commerce rides on community, never ahead of it.
+
+## What we make (the 7 series)
+- **The Reminder** ★new — 3D-printable **wall art** drops: motivational ideas as beautifully
+  designed physical objects. Each piece embodies a rule; the printable file is **free** (email-
+  gated); professionally printed versions purchasable. Designed by the founder — the craft on display.
 - **Comeback Cut** — the emotional reset: "I fell off. Here's how I run it back."
 - **The Discipline Lab** — the science: "there's a part of your brain that grows when you do hard things."
 - **Never Miss Twice** — setback recovery: "you're allowed to miss, not to quit."
