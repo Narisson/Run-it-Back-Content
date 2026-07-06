@@ -11,3 +11,4 @@ Production workspace for Run it Back — the plan and the actual posts.
 
 Strategy is grounded in `../knowledge-base/` (creator research + audience personas).
 Verify any ⚠️-flagged stat against the knowledge base before publishing.
+- **Growth blueprint:** the operational growth system lives as the `rib-growth` skill (`.agents/skills/rib-growth/SKILL.md`) — flywheel, weekly rhythm, platform playbook, ranked tactics, skill routing.
