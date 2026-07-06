@@ -30,7 +30,8 @@ parked `brand-guidelines` skeleton) so every future asset is auto-consistent.
 SVG concept boards: `logo-option-*.svg/.png`. On selection: rebuild winner as clean vector,
 make avatar/watermark crops, propagate to end cards + `run-it-back-brand` skill.
 
-## Logo sting (motion, 2026-07-06)
-5s animated sting from the Comeback Line concept (Kling 3.0 pro, sound designed in):
-job `45b2179d-15d3-430b-8fc6-ca4131e4b1b7` (1:1). Use as video outro before/instead of the
-static end card, YT bumper, site hero loop. Vertical 9:16 version: TODO if approved.
+## Logo sting attempt — ❌ REJECTED (2026-07-06)
+Generative-video sting (job `45b2179d`) rejected by founder. Lesson recorded: do NOT use
+generative AI video to animate the locked logo — it warps precise vector geometry and type.
+Logo motion must be deterministic (coded SVG/keyframe animation rendered to video). Static
+end card remains the standard outro until a proper sting is built.
