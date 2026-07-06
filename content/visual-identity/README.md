@@ -29,3 +29,8 @@ parked `brand-guidelines` skeleton) so every future asset is auto-consistent.
 - D Comeback Line: `a8c85e2c` / `5d2b3386`
 SVG concept boards: `logo-option-*.svg/.png`. On selection: rebuild winner as clean vector,
 make avatar/watermark crops, propagate to end cards + `run-it-back-brand` skill.
+
+## Logo sting (motion, 2026-07-06)
+5s animated sting from the Comeback Line concept (Kling 3.0 pro, sound designed in):
+job `45b2179d-15d3-430b-8fc6-ca4131e4b1b7` (1:1). Use as video outro before/instead of the
+static end card, YT bumper, site hero loop. Vertical 9:16 version: TODO if approved.
