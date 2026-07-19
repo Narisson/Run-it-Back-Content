@@ -43,13 +43,16 @@ replacement and more authentic — decide at assembly.)
 - **scene2-B** · job `3ea8510d-7aa4-48df-b468-46f0a62b5e11`
   https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_070417_3ea8510d-7aa4-48df-b468-46f0a62b5e11.png
 
-**STATUS: AWAITING FOUNDER PICK (A / B / regenerate / go practical).** Review checklist:
-- Iris detail believable (no AI mush), lashes clean, skin texture not plastic?
-- Lamp glint visible in the pupil (that's the shot's soul)?
-- Grade matches scene 1 (warm highlight vs teal shadow)?
+**✅ FOUNDER PICKED: scene2-A** (2026-07-19). B discarded.
 
-Next after pick: animate with Kling pro — one slow blink, micro pupil dilation, no camera
-move. Edit usage: ~0.5s on beat 2.
+### Scene 2 motion — pro render (straight to pro; simple motion, still pre-approved)
+- **scene2-A-motion (pro)** · job `88bd398d-a05c-4525-9509-194e589d797b` · Kling 3.0, 5s,
+  1080×1920 pro. One slow blink, micro pupil dilation, locked camera. ("IN THE DARK" preset
+  upsell declined again, per standing rule.)
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_073818_88bd398d-a05c-4525-9509-194e589d797b.mp4
+- **AWAITING FOUNDER REVIEW:** blink natural (lids meet cleanly, no morphing)? glint stays
+  in pupil? no drift/zoom? Edit usage: ~0.5s on beat 2 — pick the cleanest half-second
+  around the blink.
 
 ## Remaining scenes (generate in edit order after scene 1 approves)
 2. Eye macro blink (may be practical — founder's real eye is cheap + more authentic)
