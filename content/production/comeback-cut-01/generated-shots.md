@@ -152,15 +152,19 @@ still was clean).
 - **scene10-B** · `a702c13c-6889-4168-b218-3b44db3aa11a`
   https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_094102_a702c13c-6889-4168-b218-3b44db3aa11a.png
 
-**STATUS: AWAITING FOUNDER PICKS (one per scene).** Checks:
-- 8: silhouette clean, face truly unreadable, window geometry straight?
-- 9: face small but on-model at distance? landscape believable, stride clean?
-- 10: profile on-model under screen glow? blacks deep, no muddy noise? (this is the
-  closing shot the sign-off text sits over — needs calm negative space upper half)
+**✅ FOUNDER PICKED: 8A, 9B, 10A** (2026-07-19). Others discarded.
 
-Motion plan after picks (Kling pro, 5s, locked camera): 8 — near-stillness, slow breathing,
-thumb taps chin once; 9 — runs toward camera a few strides (stops before face gets large);
-10 — types slowly, pauses, small exhale, screen glow flickers once.
+### Motion — pro renders (Kling 3.0, 5s, 1080×1920 pro, locked camera)
+- **scene8-A-motion** · `6e14fc63-209d-4278-826a-811a15decdf2` — breathing stillness, chin tap.
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_094637_6e14fc63-209d-4278-826a-811a15decdf2.mp4
+- **scene9-B-motion** · `a43184d5-7401-4181-8356-e63ed119b5ff` — strides toward camera, middle
+  distance held. ("IN THE DARK" preset upsell declined again.)
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_094650_a43184d5-7401-4181-8356-e63ed119b5ff.mp4
+- **scene10-A-motion** · `e3f411c3-b26f-4e79-9b9c-2bd67cc9bbad` — slow typing, pause, exhale.
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_094642_e3f411c3-b26f-4e79-9b9c-2bd67cc9bbad.mp4
+
+**ALL AI FOOTAGE COMPLETE — 9 scenes rendered pro (1,2,3,5,6,7,8,9,10) + scene 4 practical
+(founder). Motion review still open for scenes 5–10. Assembly spec: `edit-sheet-v4.md`.**
 
 ## Remaining scenes (generate in edit order)
 5. Shoes hitting pavement, low angle
