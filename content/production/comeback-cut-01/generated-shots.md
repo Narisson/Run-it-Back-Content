@@ -117,15 +117,20 @@ Edit usage: the strike lands on "twice" (beat 3) — ~0.6s. The hover can also s
 - **scene7-B** · `7c5760e6-2b2a-4a1a-88a1-cc0f4eec482f`
   https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_092552_7c5760e6-2b2a-4a1a-88a1-cc0f4eec482f.png
 
-**STATUS: AWAITING FOUNDER PICKS (one per scene: A / B / regenerate).** Checks:
-- 5: feet anatomy + stride believable? shoes clean of pseudo-logos?
-- 6: back/arms anatomy on the bar? face truly hidden? bar clean?
-- 7: keycaps BLANK (no mangled AI glyphs — the known failure)? fingers clean?
+**✅ FOUNDER PICKED: 5A, 6A, 7A** (2026-07-19). B variants discarded.
 
-Motion plan after picks (Kling pro, 5s each, locked camera):
-- 5: one stride cycle, foot strikes, slight dust, background parallax only from natural body motion.
-- 6: one controlled pull-up rep up and down, no face reveal.
-- 7: fingers type a short burst, pause, resume; screen glow flickers faintly.
+### Motion — pro renders (Kling 3.0, 5s, 1080×1920 pro, locked camera)
+- **scene5-A-motion** · `c318de48-37fe-49c5-8a3c-1fb6a8a8eefd` — stride cycle, foot strikes, dust.
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_093228_c318de48-37fe-49c5-8a3c-1fb6a8a8eefd.mp4
+- **scene6-A-motion** · `c08e7d30-5e56-46b1-adfe-266c38960c90` — one controlled pull-up rep.
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_093231_c08e7d30-5e56-46b1-adfe-266c38960c90.mp4
+- **scene7-A-motion** · `d6dacdf6-79f7-4342-a532-dc1b7e3fbffc` — typing burst, pause, resume.
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_093234_d6dacdf6-79f7-4342-a532-dc1b7e3fbffc.mp4
+
+**AWAITING FOUNDER REVIEW of all three motions.** Watch: 5 — foot-slide/extra toes during
+strides; 6 — grip melting into the bar at the top, face staying hidden; 7 — phantom glyphs
+appearing on keycaps mid-typing (the AI-text failure can appear in MOTION even when the
+still was clean).
 
 ## Remaining scenes (generate in edit order)
 5. Shoes hitting pavement, low angle
