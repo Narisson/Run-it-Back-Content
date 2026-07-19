@@ -97,6 +97,36 @@ box 13 stays EMPTY — that's today.
 
 Edit usage: the strike lands on "twice" (beat 3) — ~0.6s. The hover can also serve beat 4.
 
+## Scenes 5–7 — batch stills (2026-07-19, nano-banana, 9:16, face-v2 ref)
+
+### Scene 5 — "shoes on pavement" (low angle, golden hour)
+- **scene5-A** · `e9d71a3b-a207-4c3c-948b-adaf48ce04da`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_092546_e9d71a3b-a207-4c3c-948b-adaf48ce04da.png
+- **scene5-B** · `0a7fd2b1-2c43-4900-acf1-051a31b6fae0`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_092546_0a7fd2b1-2c43-4900-acf1-051a31b6fae0.png
+
+### Scene 6 — "the pull-up" (dark gym, from behind, face hidden)
+- **scene6-A** · `3fa0e4d8-2391-4f97-88fc-df22da8de2bb`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_092549_3fa0e4d8-2391-4f97-88fc-df22da8de2bb.png
+- **scene6-B** · `937c784a-e86d-423e-9efc-6c1d4b60d05f`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_092549_937c784a-e86d-423e-9efc-6c1d4b60d05f.png
+
+### Scene 7 — "keyboard macro" (blank keycaps, lamp + screen glow)
+- **scene7-A** · `1cabd345-5776-49fd-b89b-1332eaa48804`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_092552_1cabd345-5776-49fd-b89b-1332eaa48804.png
+- **scene7-B** · `7c5760e6-2b2a-4a1a-88a1-cc0f4eec482f`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_092552_7c5760e6-2b2a-4a1a-88a1-cc0f4eec482f.png
+
+**STATUS: AWAITING FOUNDER PICKS (one per scene: A / B / regenerate).** Checks:
+- 5: feet anatomy + stride believable? shoes clean of pseudo-logos?
+- 6: back/arms anatomy on the bar? face truly hidden? bar clean?
+- 7: keycaps BLANK (no mangled AI glyphs — the known failure)? fingers clean?
+
+Motion plan after picks (Kling pro, 5s each, locked camera):
+- 5: one stride cycle, foot strikes, slight dust, background parallax only from natural body motion.
+- 6: one controlled pull-up rep up and down, no face reveal.
+- 7: fingers type a short burst, pause, resume; screen glow flickers faintly.
+
 ## Remaining scenes (generate in edit order)
 5. Shoes hitting pavement, low angle
 6. Training shot (pull-up / push-up)
