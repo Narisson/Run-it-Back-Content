@@ -16,18 +16,19 @@ hour, all-black outfit, 200mm telephoto compression, warm-gold highlights / teal
 - **scene1-B** · job `f07f7773-ac51-4f05-9649-9798d7378b94`
   https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_064057_f07f7773-ac51-4f05-9649-9798d7378b94.png
 
-**STATUS: AWAITING FOUNDER PICK (A / B / regenerate).** Review checklist:
-- Silhouette/hair consistent with persona face-v2?
-- Telephoto compression reads (background feels close, not wide-angle GoPro look)?
-- Grade: warm highlights + teal shadows, not oversaturated sunset-postcard?
-- Road/hedges clean — no artifacts, no accidental text/signage, believable stride?
+**✅ FOUNDER PICKED: scene1-A** (2026-07-19). B discarded.
 
-## Next step after pick
-Animate chosen still: `kling3_0`, 5s, 1080×1920 pro, start_image = chosen job ID, silent.
-Motion prompt (drafted): "The man runs away from the camera down the road at a steady pace,
-natural running gait, hair and shirt moving, camera locked off on a tripod, no camera
-movement, consistent golden-hour light." → In the edit only ~0.5–0.8s is used (beat 1
-"Every *time*"), plus 2 inverted frames as the 0:00 flash; the still doubles as the cover.
+### Scene 1 motion — draft render
+- **scene1-A-motion (DRAFT)** · job `c7c53ec8-f679-43a8-b562-f3bc19324bfe` · Kling 3.0, 5s,
+  start_image = scene1-A. ⚠️ Rendered **720×1280 std** (backend downgraded the 1080 pro
+  request, same as intro clips B/C).
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_064346_c7c53ec8-f679-43a8-b562-f3bc19324bfe.mp4
+- **AWAITING FOUNDER REVIEW of motion:** natural gait (no sliding/extra limbs)? camera stays
+  locked? light stays golden-hour? shirt/hair move believably?
+- On approval → re-render pro at 1080×1920 (or `upscale_video`) for the final. Generated
+  audio is irrelevant — all audio is replaced in the edit.
+- Edit usage: ~0.5–0.8s for beat 1 ("Every *time*") + 2 inverted frames as the 0:00 flash;
+  the A still is the cover frame.
 
 ## Remaining scenes (generate in edit order after scene 1 approves)
 2. Eye macro blink (may be practical — founder's real eye is cheap + more authentic)
