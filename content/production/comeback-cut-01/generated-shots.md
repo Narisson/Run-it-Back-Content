@@ -23,12 +23,33 @@ hour, all-black outfit, 200mm telephoto compression, warm-gold highlights / teal
   start_image = scene1-A. ⚠️ Rendered **720×1280 std** (backend downgraded the 1080 pro
   request, same as intro clips B/C).
   https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_064346_c7c53ec8-f679-43a8-b562-f3bc19324bfe.mp4
-- **AWAITING FOUNDER REVIEW of motion:** natural gait (no sliding/extra limbs)? camera stays
-  locked? light stays golden-hour? shirt/hair move believably?
-- On approval → re-render pro at 1080×1920 (or `upscale_video`) for the final. Generated
-  audio is irrelevant — all audio is replaced in the edit.
+- ✅ Motion approved by founder (2026-07-19).
+- **scene1-A-motion (FINAL, pro)** · job `79809a72-9586-48bc-b0d6-b891c52ed86d` · Kling 3.0,
+  5s, **1080×1920 pro**, same start image + prompt. ⭐ Use this one in the edit.
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_070414_79809a72-9586-48bc-b0d6-b891c52ed86d.mp4
+- Generated audio is irrelevant — all audio replaced in the edit.
 - Edit usage: ~0.5–0.8s for beat 1 ("Every *time*") + 2 inverted frames as the 0:00 flash;
   the A still is the cover frame.
+
+## Scene 2 — "the eye" (beat 2, "you miss *once*")
+
+Spec: extreme macro of the persona's eye filling the frame, warm lamp glint in the pupil,
+teal-navy ambient, 35mm grain. Generated 2026-07-19, nano-banana, 9:16, face-v2 reference.
+(Practical swap stays on the table: founder's real eye shot on phone macro is a drop-in
+replacement and more authentic — decide at assembly.)
+
+- **scene2-A** · job `6f2108af-1b57-4943-8aa1-85f2924cd9ae`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_070417_6f2108af-1b57-4943-8aa1-85f2924cd9ae.png
+- **scene2-B** · job `3ea8510d-7aa4-48df-b468-46f0a62b5e11`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_070417_3ea8510d-7aa4-48df-b468-46f0a62b5e11.png
+
+**STATUS: AWAITING FOUNDER PICK (A / B / regenerate / go practical).** Review checklist:
+- Iris detail believable (no AI mush), lashes clean, skin texture not plastic?
+- Lamp glint visible in the pupil (that's the shot's soul)?
+- Grade matches scene 1 (warm highlight vs teal shadow)?
+
+Next after pick: animate with Kling pro — one slow blink, micro pupil dilation, no camera
+move. Edit usage: ~0.5s on beat 2.
 
 ## Remaining scenes (generate in edit order after scene 1 approves)
 2. Eye macro blink (may be practical — founder's real eye is cheap + more authentic)
