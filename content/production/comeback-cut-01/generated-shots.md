@@ -65,15 +65,14 @@ grain. Generated 2026-07-19, nano-banana, 9:16, face-v2 reference.
 - **scene3-B** · job `3b97d566-aeb2-466f-b3d1-20b0ebf21d4c`
   https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_080153_3b97d566-aeb2-466f-b3d1-20b0ebf21d4c.png
 
-**STATUS: AWAITING FOUNDER PICK (A / B / regenerate).** Review checklist:
-- Face reads as the SAME persona as face-v2 / intro clip A? (First front-facing shot in this
-  video — continuity matters most here.)
-- Desk world consistent: walnut desk, black notebook, lamp from LEFT, navy shadows?
-- Monitor back in foreground clean (no brand logo, no rendered screen text)?
-- Pose natural — hands behind head, believable anatomy?
+**✅ FOUNDER PICKED: scene3-B** (2026-07-19). A discarded.
 
-Next after pick: Kling pro, one action — he settles back slightly, chest rises in an exhale,
-chair rocks a few degrees, screen glow flickers subtly. Locked camera. Edit usage: ~0.6s.
+### Scene 3 motion — pro render
+- **scene3-B-motion (pro)** · job `771cabc0-36f0-48aa-ab02-e078485f4592` · Kling 3.0, 5s,
+  1080×1920 pro. Settle-back + exhale + slight chair rock, locked camera.
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_080525_771cabc0-36f0-48aa-ab02-e078485f4592.mp4
+- **AWAITING FOUNDER REVIEW:** face stays on-model through motion (no morphing)? fingers
+  behind head stay clean? chair rock subtle, camera locked? Edit usage: ~0.6s.
 
 ## Remaining scenes (generate in edit order after scene 1 approves)
 2. Eye macro blink (may be practical — founder's real eye is cheap + more authentic)
