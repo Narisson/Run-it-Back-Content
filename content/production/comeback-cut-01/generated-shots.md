@@ -54,6 +54,27 @@ replacement and more authentic — decide at assembly.)
   in pupil? no drift/zoom? Edit usage: ~0.5s on beat 2 — pick the cleanest half-second
   around the blink.
 
+## Scene 3 — "the desk lean-back" (beat 3 area, desk world)
+
+Spec: persona leans back in chair, hands behind head, shot across the walnut desk with the
+monitor's back in foreground; warm lamp left, navy shadows, faint screen glow on face, 35mm
+grain. Generated 2026-07-19, nano-banana, 9:16, face-v2 reference.
+
+- **scene3-A** · job `1768ff4f-0842-459b-9e67-2bc74808a89e`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_080153_1768ff4f-0842-459b-9e67-2bc74808a89e.png
+- **scene3-B** · job `3b97d566-aeb2-466f-b3d1-20b0ebf21d4c`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_080153_3b97d566-aeb2-466f-b3d1-20b0ebf21d4c.png
+
+**STATUS: AWAITING FOUNDER PICK (A / B / regenerate).** Review checklist:
+- Face reads as the SAME persona as face-v2 / intro clip A? (First front-facing shot in this
+  video — continuity matters most here.)
+- Desk world consistent: walnut desk, black notebook, lamp from LEFT, navy shadows?
+- Monitor back in foreground clean (no brand logo, no rendered screen text)?
+- Pose natural — hands behind head, believable anatomy?
+
+Next after pick: Kling pro, one action — he settles back slightly, chest rises in an exhale,
+chair rocks a few degrees, screen glow flickers subtly. Locked camera. Edit usage: ~0.6s.
+
 ## Remaining scenes (generate in edit order after scene 1 approves)
 2. Eye macro blink (may be practical — founder's real eye is cheap + more authentic)
 3. Desk lean-back, lamp + screen glow (desk world)
