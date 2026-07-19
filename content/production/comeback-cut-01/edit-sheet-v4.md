@@ -36,23 +36,34 @@ _2026-07-19 · The one document needed to build the final video in CapCut. Super
 | 0:08.0–0:11.2 | **PURE BLACK** | "In this game, perfect isn't rewarded. Coming back is…" | LG only, fading in by group: "In this game," / "perfect isn't rewarded." / "Coming back is…" |
 | 0:11.2–0:11.5 | **WHITE frame** | — | ink text: "NEVER MISS TWICE." |
 | 0:11.5–0:12.4 | flurry: scene 9 (2–3 strides) → scene 8 (1 beat) | — | "NEVER MISS TWICE." persists small |
-| 0:12.4–0:15.0 | scene 10 night desk, HELD | "Run it back." (whisper) or silent | logo lockup fades in upper half + @handle · fade to black |
+| 0:12.4–0:15.0 | scene 10 night desk, HELD | "Run it back." (whisper) or silent | `type-kit/outro-run-it-back.png` fades in (text only — NO logo) · fade to black |
 
 **Loop:** fade-to-black → inverted flash reads as a restart. **Cover frame:** scene 1 still
 with "Every TIME" type (verify legibility at grid size).
 
-## 3. Type spec (two tiers — new brand identity)
+## 3. Type — READY-MADE KIT (no CapCut text tool needed)
 
-- **Small sans (connectors):** Genos 300, white `#F2F4F6`, ~40px @1080w, letter-spacing wide,
-  lowercase, placed in negative space near the subject (NOT bottom-center).
-- **LARGE (power words):** Genos 200 CAPS, ~3× size, stretched ~115% horizontally (CapCut:
-  scale X), tracking wide. White; **champagne `#C9AC72` reserved for "TWICE" and
-  "NEVER MISS TWICE."** only.
-- Words fade/scale in over 2–3 frames (102→100%); previous word may linger one beat.
-- **End card:** the round-3 logo pick (M–R, `visual-identity/logo-v2-concepts/` —
-  **founder pick pending**; placeholder = M bold-stroke lockup). Small `@runitback_club` under it.
-- Alternative kept on the table: power words in a serif italic (the raw reference's look) —
-  decide in the edit by eye; don't mix both systems in one video.
+All on-screen text ships as prebuilt 1080×1920 PNGs in `type-kit/` — beat overlays are
+TRANSPARENT (drop on top of the clip, nudge position per shot so text sits in negative
+space), cards are opaque full-frames:
+
+| File | Use at | Kind |
+|---|---|---|
+| beat1-every-time.png | 0:00.1 | transparent overlay |
+| beat2-you-miss-once.png | 0:01.3 | transparent overlay |
+| beat3-and-let-it.png | 0:02.3 | transparent overlay |
+| beat4-twice.png (champagne) | 0:03.4 | transparent overlay |
+| beat5-streak.png | 0:04.6 | transparent overlay |
+| beat6-training-quit.png | 0:05.8 | transparent overlay |
+| card1-in-this-game.png | 0:08.0 | opaque black card |
+| card2-perfect.png | 0:09.1 | opaque black card |
+| card3-coming-back.png | 0:10.1 | opaque black card |
+| card4-flash-never-miss-twice.png | 0:11.2 | opaque white flash (2–4 frames) |
+| outro-run-it-back.png | 0:12.4 | transparent overlay (text-only — **no logo in this video**) |
+
+Fade each overlay in over 2–3 frames; cards cut hard. Type: Genos 200/300, white
+`#F2F4F6`, champagne `#C9AC72` only on "TWICE". Regeneration source: SVGs in scratchpad
+pipeline (ask Claude to re-render if wording changes).
 
 ## 4. Grade (apply identically to ALL clips, AI + practical)
 
@@ -78,10 +89,12 @@ no watermarks. Caption (from script-v2):
 > Save this for the next time you fall off — and follow for the comeback.
 > #discipline #comeback #nevermisstwice #selfimprovement #runitback
 
-## 7. Open items before assembly
+## 7. Open items before assembly (all founder-side)
 
-1. Founder motion review: scenes 5–10 clips (5A/6A/7A/8A/9B/10A renders).
-2. Scene 4 practical shoot (prop is printed → 10 min at the desk).
-3. VO takes recorded.
-4. Logo round-3 pick (M/N/O/P/Q/R) → finalize end card + avatar.
-5. Music chosen on-platform.
+1. Motion review: scenes 5–10 clips (5A/6A/7A/8A/9B/10A renders) — flag re-rolls.
+2. Scene 4 practical shoot (print `tracker-page.png` → 10 min at the desk).
+3. VO takes recorded (3 takes, soft/close).
+4. Music chosen on-platform at assembly.
+
+(Logo: intentionally NOT in this video — outro is text-only. Logo exploration continues
+separately in `visual-identity/logo-v2-concepts/`.)
