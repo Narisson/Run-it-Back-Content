@@ -132,6 +132,36 @@ strides; 6 — grip melting into the bar at the top, face staying hidden; 7 — 
 appearing on keycaps mid-typing (the AI-text failure can appear in MOTION even when the
 still was clean).
 
+## Scenes 8–10 — batch stills (2026-07-19, nano-banana, 9:16, face-v2 ref)
+
+### Scene 8 — "window silhouette" (backlit, face in shadow)
+- **scene8-A** · `3eed724b-be77-487e-9958-d98c4552bf1b`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_094055_3eed724b-be77-487e-9958-d98c4552bf1b.png
+- **scene8-B** · `81b7ed11-f77a-4d7e-8065-e2ced94f104a`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_094056_81b7ed11-f77a-4d7e-8065-e2ced94f104a.png
+
+### Scene 9 — "run toward camera" (hero landscape, mountains)
+- **scene9-A** · `d78b1da7-9fe8-46db-8a12-f1fac1c440d3`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_094101_d78b1da7-9fe8-46db-8a12-f1fac1c440d3.png
+- **scene9-B** · `939a3939-ae33-4347-97cc-f85aa2eae828`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_094101_939a3939-ae33-4347-97cc-f85aa2eae828.png
+
+### Scene 10 — "night desk" (closing held shot, laptop glow only)
+- **scene10-A** · `9b908a90-f181-43b2-9157-cf2d5899b3b8`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_094102_9b908a90-f181-43b2-9157-cf2d5899b3b8.png
+- **scene10-B** · `a702c13c-6889-4168-b218-3b44db3aa11a`
+  https://d8j0ntlcm91z4.cloudfront.net/user_3FZ1OYuzFoFGu8tuDVBKSIaVCgy/hf_20260719_094102_a702c13c-6889-4168-b218-3b44db3aa11a.png
+
+**STATUS: AWAITING FOUNDER PICKS (one per scene).** Checks:
+- 8: silhouette clean, face truly unreadable, window geometry straight?
+- 9: face small but on-model at distance? landscape believable, stride clean?
+- 10: profile on-model under screen glow? blacks deep, no muddy noise? (this is the
+  closing shot the sign-off text sits over — needs calm negative space upper half)
+
+Motion plan after picks (Kling pro, 5s, locked camera): 8 — near-stillness, slow breathing,
+thumb taps chin once; 9 — runs toward camera a few strides (stops before face gets large);
+10 — types slowly, pauses, small exhale, screen glow flickers once.
+
 ## Remaining scenes (generate in edit order)
 5. Shoes hitting pavement, low angle
 6. Training shot (pull-up / push-up)
