@@ -74,10 +74,30 @@ grain. Generated 2026-07-19, nano-banana, 9:16, face-v2 reference.
 - **AWAITING FOUNDER REVIEW:** face stays on-model through motion (no morphing)? fingers
   behind head stay clean? chair rock subtle, camera locked? Edit usage: ~0.6s.
 
-## Remaining scenes (generate in edit order after scene 1 approves)
-2. Eye macro blink (may be practical — founder's real eye is cheap + more authentic)
-3. Desk lean-back, lamp + screen glow (desk world)
-4. MACRO pen strikes ✓ on streak page — **practical only** (AI handwriting ban)
+## Scene 4 — "the commit" (pen strikes ✓ on the streak page) — PRACTICAL, founder shoots
+
+✅ Scene 3 motion approved (2026-07-19). Scene 4 is practical-only (AI handwriting ban).
+
+**Prop is ready:** `tracker-page.svg` (source, brand font embedded) → `tracker-page.png`
+(A4 300dpi print file). Print **3–4 copies**. Fonts archived in
+`../../visual-identity/fonts/` (Big Shoulders Display 700/800, OFL, via Fontsource).
+
+**Prep the hero copy before the take:** fill HABIT/STARTED in pen; draw ✓ in boxes 1–11 in
+Blaze-orange marker (imperfect, quick strokes — human); draw one ✗ in box 12 in dark pen;
+box 13 stays EMPTY — that's today.
+
+**The shot (phone, overhead or 30° low macro):**
+- Desk world: walnut desk, lamp from left, overheads off. Tripod/book stack.
+- Action: pen tip hovers over box 13 a beat… then strikes one confident orange ✓. That's
+  the whole action. 5–8 takes.
+- Two framings: (a) tight macro on boxes 11–13 (✗ visible beside the pen), (b) slightly
+  wider showing the streak row. Lock focus/exposure before each take (tap-hold), ≥15cm
+  distance, crop in post.
+- Bonus take for the outro option: hand draws a small ↻ in the margin, end mid-stroke.
+
+Edit usage: the strike lands on "twice" (beat 3) — ~0.6s. The hover can also serve beat 4.
+
+## Remaining scenes (generate in edit order)
 5. Shoes hitting pavement, low angle
 6. Training shot (pull-up / push-up)
 7. Keyboard macro
