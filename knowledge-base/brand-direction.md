@@ -186,3 +186,13 @@ expression of the same mission — physical reminders = "systems over willpower"
   plan (differentiation, 5 signature series, 30-day sprint, funnel) and **launch-batch-01** (12
   ready-to-shoot scripts). Differentiation = mechanism (science) + resumable discipline + signature
   series + "Run it back." sign-off.
+- 2026-07-29 — **FOCUS PLATFORM DECIDED: Instagram.** Founder's call, applying the
+  concentration principle from the channel-launch research (win one platform, then expand —
+  `.agents/skills/rib-growth/references/six-cs-playbook.md` C1). Rationale: IG is the
+  send/save engine (research: DM share ≈ 3–5× a like for non-follower reach; sold ~100×
+  TikTok for the studied creator), rewards the community-first north star, and carousels +
+  reels fit our formats. Implications: IG gets the iteration effort — hook tests, weekly
+  review depth, first-hour replies, format kills/promotions all read from IG data; TikTok/
+  YT-Shorts/X stay as cheap cross-posts (re-export clean, caption per platform) until IG is
+  won. Primary weekly metrics: share rate (~4% = excellent), watch-through (>50%; >60% on
+  15s), saves, profile taps, email signups. Trial Reels for testing; hide like counts.

@@ -44,10 +44,14 @@ prints → featured UGC → belonging. Every decision should strengthen a link; 
 - The cadence IS the brand ("never miss twice") — a missed batch day gets made up next day, never two.
 
 ## 3. Platform playbook (roles, not clones)
+**FOCUS PLATFORM: Instagram** (decided 2026-07-29, decisions log). IG gets the iteration
+effort — hook tests, review depth, first-hour replies, format decisions all read from IG
+data. Everything else is a cheap cross-post until IG is won (3× traction elsewhere = the
+trigger to revisit).
 | Platform | Role | Key mechanics |
 |---|---|---|
-| **TikTok** | discovery engine (primary) | hook <2s, completion >70% target, reply-videos to comments, stitches/duets on big creators, 3-5+/wk |
-| **IG Reels** | send/save engine | design a "send this to a friend" moment per post; carousels for saves; Stories for warmth; Trial Reels to test |
+| **IG Reels** | **FOCUS** — send/save + community engine | design a "send this to a friend" moment per post; carousels for saves (reach rising); casual/relatable > lecture; Stories for warmth; Trial Reels to test; hide like counts; share rate ~4% + watch-through >50% = winning |
+| **TikTok** | awareness cross-post | hook <2s, completion >70% target, reply-videos to comments, stitches/duets on big creators |
 | **YouTube Shorts→long** | trust + search moat | keyworded titles ("how to build discipline"), Shorts feed subs, long-form when formats proven |
 | **X** | written POV + build-in-public | native text/clips, no external links in-post, threads of the money experiments |
 Cross-post everything, re-exported clean (no watermarks), caption per platform — but **concentrate iteration effort on ONE platform until it's won** (cross-posting is cheap; attention to data isn't; being undeniable in one place beats being average in four). Platform personalities + what wins/flops on each: `references/six-cs-playbook.md` C1.

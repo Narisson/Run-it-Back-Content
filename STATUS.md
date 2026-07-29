@@ -1,9 +1,14 @@
-# STATUS — session handoff (updated 2026-07-06)
+# STATUS — session handoff (updated 2026-07-29)
 
 Read this first in a fresh session. Full context: `MASTER-PLAN.md` → `content/week-01-plan.md`
 → `knowledge-base/brand-direction.md` (decisions log) → `.agents/skills/rib-growth` (growth OS).
 
 ## Where we are
+- **FOCUS PLATFORM = INSTAGRAM** (founder decision 2026-07-29; brand-direction decisions log).
+  IG gets all iteration effort/data attention; TikTok/Shorts/X are cheap cross-posts until IG is won.
+- **rib-growth skill upgraded** with two distilled research playbooks:
+  `references/channel-launch-playbook.md` (transformation, MVP pyramid, first-20 protocol) and
+  `references/six-cs-playbook.md` (concentration, credibility, idea supply, calibration, ladder).
 - **Phase 0 (SHIP), Week 1 in progress** (plan: `content/week-01-plan.md`, Mon Jul 6 start).
   Founder is executing: bios + avatar + Post #1 (launch-pack) were tonight's actions — CONFIRM STATUS WITH FOUNDER FIRST.
 - **Logo v1 ADOPTED** (comeback monogram): vectors in `content/visual-identity/logo-final/`.
