@@ -9,10 +9,9 @@ The single runbook for growing the brand. Synthesizes the knowledge base (viral-
 audience-personas, growth research) + the five installed marketing skills. Companion gates and
 money phases live in `MASTER-PLAN.md`. **Growth phase rule: value first, no selling, email from day one.**
 
-**Deep theory layer:** `references/channel-launch-playbook.md` — the founder's distilled
-channel-strategy research (algorithm-as-matchmaker, transformation targeting, tree method,
-POV, MVP pyramid, first-20 protocol). Read it when planning strategy, judging whether an
-idea deserves production, launching a platform, or diagnosing underperformance.
+**Deep theory layer (founder's distilled research):**
+- `references/channel-launch-playbook.md` — channel strategy + video craft: algorithm-as-matchmaker, transformation targeting, tree method, POV, MVP pyramid, first-20 protocol. Read when planning strategy, judging whether an idea deserves production, launching a platform, or diagnosing underperformance.
+- `references/six-cs-playbook.md` — platform selection, credibility, idea supply, metrics, money: concentration (win one platform), platform personalities + benchmark table, credibility without production, category ownership, swipe-file/problem-bank idea system, calibration (three S's, 3-note post-mortem), product ladder. Read when allocating effort across platforms, running the weekly review, refilling the idea backlog, or making monetization moves.
 
 ## 0. North star & flywheel — COMMUNITY FIRST
 North star (growth phase): **community** — retention + sends + email signups + UGC/replies —
@@ -38,8 +37,9 @@ prints → featured UGC → belonging. Every decision should strengthen a link; 
 
 ## 2. The weekly operating rhythm (non-negotiable)
 - **1 batch day/week:** produce 4–7 pieces (scripts → shoot/generate → captions). *First-20 caveat:* until a format has data, batch production mechanics (b-roll, VO, templates) but not finished pieces of an untested format — one at a time, improve one MVP layer between posts. Once a format validates, batch it fully.
-- **Daily ~20 min:** post 1; reply to EVERY comment (first hour matters most); note 1 content idea from comments/DMs.
+- **Daily ~20 min:** post 1; reply to EVERY comment (first hour matters most); note 1 content idea from comments/DMs — and log the audience's *exact wording* about falling off into the problem bank (their words become our hooks; `references/six-cs-playbook.md` C4: swipe file, steal-the-hook, mine unanswered comment questions).
 - **Weekly 30 min review:** per post — completion %, saves, sends, profile taps, email signups. Double down on top 2–3 formats, kill bottom quartile (3-week rule). Judge by **relative outliers** (a post 10–30× the account's own baseline = loud signal even at small numbers); when one fires, stop the queue, walk the MVP pyramid to find what was different, then replicate that style on sibling topics (`references/channel-launch-playbook.md` §5).
+- **Per post, the three S's + 3 notes:** did they Start (hook) / Stay (payoff speed) / Signal (act after)? Note: why they started, where they left, which line got a reaction. If you can't name why a post worked, you can't repeat it. Benchmarks per platform (IG share ~4%, watch-through >50%; YT CTR 4–7%; X replies 1–3%; email opens 30/40%): `references/six-cs-playbook.md` C5.
 - **Monthly:** check MASTER-PLAN gates; update brand-direction decisions log.
 - The cadence IS the brand ("never miss twice") — a missed batch day gets made up next day, never two.
 
@@ -50,7 +50,7 @@ prints → featured UGC → belonging. Every decision should strengthen a link; 
 | **IG Reels** | send/save engine | design a "send this to a friend" moment per post; carousels for saves; Stories for warmth; Trial Reels to test |
 | **YouTube Shorts→long** | trust + search moat | keyworded titles ("how to build discipline"), Shorts feed subs, long-form when formats proven |
 | **X** | written POV + build-in-public | native text/clips, no external links in-post, threads of the money experiments |
-Cross-post everything, re-exported clean (no watermarks), caption per platform.
+Cross-post everything, re-exported clean (no watermarks), caption per platform — but **concentrate iteration effort on ONE platform until it's won** (cross-posting is cheap; attention to data isn't; being undeniable in one place beats being average in four). Platform personalities + what wins/flops on each: `references/six-cs-playbook.md` C1.
 
 ## 4. Growth tactics, ranked (do in this order)
 1. Nail the problem-hook (first 2s) — highest leverage, iterate weekly from data.
@@ -73,6 +73,7 @@ Cross-post everything, re-exported clean (no watermarks), caption per platform.
 Designer/maker identity visible (desk set, sketches, honest gear takes) · science with sources
 (Discipline Lab; never fabricate stats — verify against knowledge base) · anti-grindset humour ·
 consistency itself as proof · admit misses publicly and run them back (the brand eating its own dog food).
+**Over-production actively hurts trust** (research: kitchen-phone video ≈ 100× the polished studio version) — credibility is free: look platform-native, only explain what we've earned the right to explain (the dinner test), and show the thing being *done* (`references/six-cs-playbook.md` C2). Own the words: say "run it back" and "never miss twice" relentlessly — repetition bores the creator long before the audience.
 
 ## 7. Skill routing (which tool for which job)
 - Plan topics/calendar → `content-strategy` + this blueprint's series list
